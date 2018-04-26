@@ -4,3 +4,7 @@
 /.settings/
 /.classpath
 .svn/
+/Profiles/default.glbl
+GlobalVariables.glbl
+/.DS_Store
+/.gitignore~
