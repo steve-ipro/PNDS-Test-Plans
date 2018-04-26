@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Print Pages" time="128" tests="0" failures="3" errors="0">
+   <testsuite name="Print Pages" tests="0" failures="3" errors="0" time="128" timestamp="2018-04-13 10:40:08" hostname="shawn - DESKTOP-VC1MT75" id="Test Suites/Print Pages">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007"/>
+         <property name="logFiles" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007\\1523630452274.png, C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007\\1523630494159.png, C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007\\1523630536473.png"/>
+         <property name="hostName" value="shawn - DESKTOP-VC1MT75"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Firefox 59.0"/>
+         <property name="hostAddress" value="192.168.254.184"/>
+         <property name="sessionId" value="e3dba890-3a6a-432b-a592-f5d5037f7efe"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Print Pages/Aetna" classname="Test Cases/Print Pages/Aetna" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ')]' not found)"/>
+         <system-out><![CDATA[2018-04-13 10:40:08 - [TEST_CASE][FAILED] - Test Cases/Print Pages/Aetna: Test Cases/Print Pages/Aetna FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ')]' not found)
+
+2018-04-13 10:40:08 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 10:40:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 10:40:12 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 10:40:14 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 10:40:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (2)/a_Search by Health Plan' is clicked on
+
+2018-04-13 10:40:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (2)/a_Search by Health Plan' is clicked on
+
+2018-04-13 10:40:15 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Print Page/Page_PNDS (2)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 10:40:16 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Print Page/Page_PNDS (2)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 10:40:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (2)/button_Search' is clicked on
+
+2018-04-13 10:40:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (2)/button_Search' is clicked on
+
+2018-04-13 10:40:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (2)/span_Print these results' is clicked on
+
+2018-04-13 10:40:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (2)/span_Print these results' is clicked on
+
+2018-04-13 10:40:21 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ')]' not found)
+
+2018-04-13 10:40:52 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ')]' not found)
+[[ATTACHMENT|C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007\\1523630452274.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-13 10:40:08 - [TEST_CASE][FAILED] - Test Cases/Print Pages/Aetna: Test Cases/Print Pages/Aetna FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ')]' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Print Pages/Capital District" classname="Test Cases/Print Pages/Capital District" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , &quot;'&quot; , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            ') or . = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , &quot;'&quot; , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            '))]' not found)"/>
+         <system-out><![CDATA[2018-04-13 10:40:52 - [TEST_CASE][FAILED] - Test Cases/Print Pages/Capital District: Test Cases/Print Pages/Capital District FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            ') or . = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            '))]' not found)
+
+2018-04-13 10:40:52 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 10:40:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-04-13 10:40:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 10:40:54 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 10:40:56 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 10:40:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (5)/a_Search by Health Plan' is clicked on
+
+2018-04-13 10:40:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (5)/a_Search by Health Plan' is clicked on
+
+2018-04-13 10:40:57 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0147' are selected in object 'Object Repository/Print Page/Page_PNDS (5)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 10:40:59 - [MESSAGE][PASSED] - All options with value '0147' are selected in object 'Object Repository/Print Page/Page_PNDS (5)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 10:40:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (5)/button_Search' is clicked on
+
+2018-04-13 10:41:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (5)/button_Search' is clicked on
+
+2018-04-13 10:41:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (5)/span_Print these results' is clicked on
+
+2018-04-13 10:41:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (5)/span_Print these results' is clicked on
+
+2018-04-13 10:41:03 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            ') or . = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            '))]' not found)
+
+2018-04-13 10:41:34 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            ') or . = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            '))]' not found)
+[[ATTACHMENT|C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007\\1523630494159.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-13 10:40:52 - [TEST_CASE][FAILED] - Test Cases/Print Pages/Capital District: Test Cases/Print Pages/Capital District FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (5)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            ') or . = concat('
+                               Information submitted to NYS as of 04/01/2018
+                               Capital District Physicians Health Plan, Inc. (CDPHP)
+                                Products this provider participates with.Capital District Physicians' , "'" , ' Health Plan, Inc. (CDPHP): Commercial MCO Network Child Health Plus Commercial NonMCO Medical Network Health and Recovery Plan (HARP) Individual Marketplace QHP Medicaid                            '))]' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Print Pages/Cigna" classname="Test Cases/Print Pages/Cigna" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ')]' not found)"/>
+         <system-out><![CDATA[2018-04-13 10:41:34 - [TEST_CASE][FAILED] - Test Cases/Print Pages/Cigna: Test Cases/Print Pages/Cigna FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ')]' not found)
+
+2018-04-13 10:41:34 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 10:41:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-04-13 10:41:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 10:41:36 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 10:41:39 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 10:41:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (3)/a_Search by Health Plan' is clicked on
+
+2018-04-13 10:41:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (3)/a_Search by Health Plan' is clicked on
+
+2018-04-13 10:41:40 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0157' are selected in object 'Object Repository/Print Page/Page_PNDS (3)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 10:41:42 - [MESSAGE][PASSED] - All options with value '0157' are selected in object 'Object Repository/Print Page/Page_PNDS (3)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 10:41:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (3)/button_Search' is clicked on
+
+2018-04-13 10:41:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (3)/button_Search' is clicked on
+
+2018-04-13 10:41:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (3)/span_Print these results' is clicked on
+
+2018-04-13 10:41:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (3)/span_Print these results' is clicked on
+
+2018-04-13 10:41:45 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ')]' not found)
+
+2018-04-13 10:42:16 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ')]' not found)
+[[ATTACHMENT|C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180413_104007\\1523630536473.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-13 10:41:34 - [TEST_CASE][FAILED] - Test Cases/Print Pages/Cigna: Test Cases/Print Pages/Cigna FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (3)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Cigna Health and Life Insurance Company, Inc: Medical Network POS
+                                Products this provider participates with.Cigna Health and Life Insurance Company, Inc: Medical Network POS Cigna Health and Life Insurance Company, Inc: Medical OAP Network Cigna Health and Life Insurance Company, Inc: Medical PPO Network                            ')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-04-13 10:40:08 - [TEST_SUITE][FAILED] - Print Pages: Test Cases/Print Pages/Aetna FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-04-13 10:40:08 - [TEST_SUITE][FAILED] - Print Pages: Test Cases/Print Pages/Aetna FAILED because (of) Unable to click on object 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Print Page/Page_PNDS (2)/td_Information submitted to NY' located by 'By.xpath: //td[(text() = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ' or . = '
+                               Information submitted to NYS as of 04/01/2018
+                               Aetna Life Insurance Company: Broad PPO
+                                Products this provider participates with.Aetna Life Insurance Company: Aetna Whole Health Two Metro NY Aetna Life Insurance Company: Broad PPO Aetna Life Insurance Company: Managed Pharmacy PPO Aetna Life Insurance Company: Savings Plus Aetna Life Insurance Company: Signature Aetna Life Insurance Company: Tiered                            ')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

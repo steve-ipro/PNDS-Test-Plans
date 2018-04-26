@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://pndslookup.health.ny.gov/'</initValue>
+      <name>prodURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://dev.providerlookup.ipro.org/'</initValue>
+      <name>devURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://pndslookup-prod.ipro.org/'</initValue>
+      <name>preProdURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

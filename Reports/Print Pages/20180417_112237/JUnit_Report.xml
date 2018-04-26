@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Print Pages" time="35" tests="3" failures="0" errors="0">
+   <testsuite name="Print Pages" tests="3" failures="0" errors="0" time="35" timestamp="2018-04-17 11:22:40" hostname="shawn - DESKTOP-VC1MT75" id="Test Suites/Print Pages">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180417_112237"/>
+         <property name="logFiles" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Print Pages\\20180417_112237\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="shawn - DESKTOP-VC1MT75"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Firefox 59.0"/>
+         <property name="hostAddress" value="192.168.0.169"/>
+         <property name="sessionId" value="6bd7a41a-1d2a-4a11-8f5c-d1b8cc920cf5"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Print Pages/Aetna" classname="Test Cases/Print Pages/Aetna" status="PASSED">
+         <system-out><![CDATA[2018-04-17 11:22:41 - [TEST_CASE][PASSED] - Test Cases/Print Pages/Aetna: Test Cases/Print Pages/Aetna
+
+2018-04-17 11:22:41 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 11:22:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 11:22:44 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 11:22:45 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 11:22:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (6)/a_Search by Health Plan' is clicked on
+
+2018-04-17 11:22:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (6)/a_Search by Health Plan' is clicked on
+
+2018-04-17 11:22:46 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Print Page/Page_PNDS (6)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 11:22:48 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Print Page/Page_PNDS (6)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 11:22:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (6)/button_Search' is clicked on
+
+2018-04-17 11:22:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (6)/button_Search' is clicked on
+
+2018-04-17 11:22:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (6)/span_Print these results' is clicked on
+
+2018-04-17 11:22:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (6)/span_Print these results' is clicked on
+
+2018-04-17 11:22:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (6)/td_Information submitted to NY' is clicked on
+
+2018-04-17 11:22:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (6)/td_Information submitted to NY' is clicked on
+
+2018-04-17 11:22:52 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 11:22:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Print Pages/Capital District" classname="Test Cases/Print Pages/Capital District" status="PASSED">
+         <system-out><![CDATA[2018-04-17 11:22:52 - [TEST_CASE][PASSED] - Test Cases/Print Pages/Capital District: Test Cases/Print Pages/Capital District
+
+2018-04-17 11:22:52 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 11:22:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 11:22:55 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 11:22:56 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 11:22:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (7)/a_Search by Health Plan' is clicked on
+
+2018-04-17 11:22:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (7)/a_Search by Health Plan' is clicked on
+
+2018-04-17 11:22:57 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0147' are selected in object 'Object Repository/Print Page/Page_PNDS (7)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 11:22:59 - [MESSAGE][PASSED] - All options with value '0147' are selected in object 'Object Repository/Print Page/Page_PNDS (7)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 11:22:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (7)/button_Search' is clicked on
+
+2018-04-17 11:23:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (7)/button_Search' is clicked on
+
+2018-04-17 11:23:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (7)/span_Print these results' is clicked on
+
+2018-04-17 11:23:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (7)/span_Print these results' is clicked on
+
+2018-04-17 11:23:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (7)/td_Information submitted to NY' is clicked on
+
+2018-04-17 11:23:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (7)/td_Information submitted to NY' is clicked on
+
+2018-04-17 11:23:03 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 11:23:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Print Pages/Cigna" classname="Test Cases/Print Pages/Cigna" status="PASSED">
+         <system-out><![CDATA[2018-04-17 11:23:04 - [TEST_CASE][PASSED] - Test Cases/Print Pages/Cigna: Test Cases/Print Pages/Cigna
+
+2018-04-17 11:23:04 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 11:23:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 11:23:06 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 11:23:10 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 11:23:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (8)/a_Search by Health Plan' is clicked on
+
+2018-04-17 11:23:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (8)/a_Search by Health Plan' is clicked on
+
+2018-04-17 11:23:11 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0157' are selected in object 'Object Repository/Print Page/Page_PNDS (8)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 11:23:12 - [MESSAGE][PASSED] - All options with value '0157' are selected in object 'Object Repository/Print Page/Page_PNDS (8)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 11:23:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (8)/button_Search' is clicked on
+
+2018-04-17 11:23:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (8)/button_Search' is clicked on
+
+2018-04-17 11:23:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (8)/span_Print these results' is clicked on
+
+2018-04-17 11:23:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (8)/span_Print these results' is clicked on
+
+2018-04-17 11:23:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Print Page/Page_PNDS (8)/td_Information submitted to NY' is clicked on
+
+2018-04-17 11:23:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Print Page/Page_PNDS (8)/td_Information submitted to NY' is clicked on
+
+2018-04-17 11:23:16 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 11:23:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-04-17 11:22:40 - [TEST_SUITE][PASSED] - Print Pages: Test Cases/Print Pages/Cigna]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

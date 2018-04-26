@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Search by Provider or Facility" time="98" tests="6" failures="1" errors="0">
+   <testsuite name="Search by Provider or Facility" tests="6" failures="1" errors="0" time="98" timestamp="2018-04-17 09:51:46" hostname="shawn - DESKTOP-VC1MT75" id="Test Suites/Search by Provider or Facility">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Provider or Facility\\20180417_095145"/>
+         <property name="logFiles" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Provider or Facility\\20180417_095145\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Provider or Facility\\20180417_095145\\1523973188730.png"/>
+         <property name="hostName" value="shawn - DESKTOP-VC1MT75"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Firefox 59.0"/>
+         <property name="hostAddress" value="192.168.254.184"/>
+         <property name="sessionId" value="ed4259ae-fc94-4323-a5e6-0ce40bd7c6b6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Search by Provider or Facility/PF_Advanced - Gender" classname="Test Cases/Search by Provider or Facility/PF_Advanced - Gender" status="PASSED">
+         <system-out><![CDATA[2018-04-17 09:51:47 - [TEST_CASE][PASSED] - Test Cases/Search by Provider or Facility/PF_Advanced - Gender: Test Cases/Search by Provider or Facility/PF_Advanced - Gender
+
+2018-04-17 09:51:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 09:51:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 09:51:50 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-17 09:51:52 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-17 09:51:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (13)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (13)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:51:52 - [TEST_STEP][PASSED] - setText: Text 'smith' is set on object 'Object Repository/Page_PNDS (13)/input_data0Providerlast_name'
+
+2018-04-17 09:51:52 - [MESSAGE][PASSED] - Text 'smith' is set on object 'Object Repository/Page_PNDS (13)/input_data0Providerlast_name'
+
+2018-04-17 09:51:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (13)/button_Advanced Search' is clicked on
+
+2018-04-17 09:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (13)/button_Advanced Search' is clicked on
+
+2018-04-17 09:51:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (13)/div_Male' is clicked on
+
+2018-04-17 09:51:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (13)/div_Male' is clicked on
+
+2018-04-17 09:51:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (13)/button_Search' is clicked on
+
+2018-04-17 09:51:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (13)/button_Search' is clicked on
+
+2018-04-17 09:51:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (13)/button_Advanced Search' is clicked on
+
+2018-04-17 09:51:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (13)/button_Advanced Search' is clicked on
+
+2018-04-17 09:51:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (13)/span_second-icon fa fa-dot-cir' is clicked on
+
+2018-04-17 09:51:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (13)/span_second-icon fa fa-dot-cir' is clicked on
+
+2018-04-17 09:51:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (13)/button_Search' is clicked on
+
+2018-04-17 09:51:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (13)/button_Search' is clicked on
+
+2018-04-17 09:51:55 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 09:51:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Provider or Facility/PF_Advanced - Language" classname="Test Cases/Search by Provider or Facility/PF_Advanced - Language" status="PASSED">
+         <system-out><![CDATA[2018-04-17 09:51:55 - [TEST_CASE][PASSED] - Test Cases/Search by Provider or Facility/PF_Advanced - Language: Test Cases/Search by Provider or Facility/PF_Advanced - Language
+
+2018-04-17 09:51:55 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 09:51:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 09:51:57 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:51:59 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:51:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (12)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:52:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:52:00 - [TEST_STEP][PASSED] - setText: Text 'smith' is set on object 'Object Repository/Page_PNDS (12)/input_data0Providerlast_name'
+
+2018-04-17 09:52:00 - [MESSAGE][PASSED] - Text 'smith' is set on object 'Object Repository/Page_PNDS (12)/input_data0Providerlast_name'
+
+2018-04-17 09:52:00 - [TEST_STEP][PASSED] - rightClick: Object: 'Object Repository/Page_PNDS (12)/input_data0Providerlast_name' is right clicked on
+
+2018-04-17 09:52:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/input_data0Providerlast_name' is right clicked on
+
+2018-04-17 09:52:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (12)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:01 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'SPA' are selected in object 'Object Repository/Page_PNDS (12)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-17 09:52:03 - [MESSAGE][PASSED] - All options with value 'SPA' are selected in object 'Object Repository/Page_PNDS (12)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-17 09:52:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (12)/button_Search' is clicked on
+
+2018-04-17 09:52:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/button_Search' is clicked on
+
+2018-04-17 09:52:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (12)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:06 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'RUS' are selected in object 'Object Repository/Page_PNDS (12)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-17 09:52:09 - [MESSAGE][PASSED] - All options with value 'RUS' are selected in object 'Object Repository/Page_PNDS (12)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-17 09:52:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (12)/button_Search' is clicked on
+
+2018-04-17 09:52:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/button_Search' is clicked on
+
+2018-04-17 09:52:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (12)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:12 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'CHI' are selected in object 'Object Repository/Page_PNDS (12)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-17 09:52:14 - [MESSAGE][PASSED] - All options with value 'CHI' are selected in object 'Object Repository/Page_PNDS (12)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-17 09:52:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (12)/button_Search' is clicked on
+
+2018-04-17 09:52:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (12)/button_Search' is clicked on
+
+2018-04-17 09:52:16 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 09:52:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Provider or Facility/PF_Advanced - Participating Heath Plan" classname="Test Cases/Search by Provider or Facility/PF_Advanced - Participating Heath Plan" status="PASSED">
+         <system-out><![CDATA[2018-04-17 09:52:16 - [TEST_CASE][PASSED] - Test Cases/Search by Provider or Facility/PF_Advanced - Participating Heath Plan: Test Cases/Search by Provider or Facility/PF_Advanced - Participating Heath Plan
+
+2018-04-17 09:52:16 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 09:52:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 09:52:19 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:52:21 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:52:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (14)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:52:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (14)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:52:22 - [TEST_STEP][PASSED] - setText: Text 'center' is set on object 'Object Repository/Page_PNDS (14)/input_data0PracticeProvidersit'
+
+2018-04-17 09:52:22 - [MESSAGE][PASSED] - Text 'center' is set on object 'Object Repository/Page_PNDS (14)/input_data0PracticeProvidersit'
+
+2018-04-17 09:52:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (14)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (14)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:22 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS (14)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 09:52:24 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS (14)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-17 09:52:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (14)/button_Search' is clicked on
+
+2018-04-17 09:52:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (14)/button_Search' is clicked on
+
+2018-04-17 09:52:26 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 09:52:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Provider or Facility/PF_Advanced - Wheelchair" classname="Test Cases/Search by Provider or Facility/PF_Advanced - Wheelchair" status="PASSED">
+         <system-out><![CDATA[2018-04-17 09:52:26 - [TEST_CASE][PASSED] - Test Cases/Search by Provider or Facility/PF_Advanced - Wheelchair: Test Cases/Search by Provider or Facility/PF_Advanced - Wheelchair
+
+2018-04-17 09:52:26 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 09:52:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 09:52:29 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:52:30 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:52:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (11)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:52:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (11)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:52:31 - [TEST_STEP][PASSED] - setText: Text 'smith' is set on object 'Object Repository/Page_PNDS (11)/input_data0Providerlast_name'
+
+2018-04-17 09:52:31 - [MESSAGE][PASSED] - Text 'smith' is set on object 'Object Repository/Page_PNDS (11)/input_data0Providerlast_name'
+
+2018-04-17 09:52:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (11)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (11)/button_Advanced Search' is clicked on
+
+2018-04-17 09:52:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (11)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-17 09:52:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (11)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-17 09:52:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (11)/button_Search' is clicked on
+
+2018-04-17 09:52:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (11)/button_Search' is clicked on
+
+2018-04-17 09:52:34 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 09:52:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Provider or Facility/PF_Last Name" classname="Test Cases/Search by Provider or Facility/PF_Last Name" status="FAILED">
+         <failure type="FAILED" message="Unable to set text 'smith' of object 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' located by 'By.xpath: //input[@name = 'data[0][Provider][last_name]' and @id = 'autoname1' and @placeholder = 'Smith' and @title = 'Enter last name' and @type = 'text']' not found)"/>
+         <system-out><![CDATA[2018-04-17 09:52:34 - [TEST_CASE][FAILED] - Test Cases/Search by Provider or Facility/PF_Last Name: Test Cases/Search by Provider or Facility/PF_Last Name FAILED because (of) Unable to set text 'smith' of object 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' located by 'By.xpath: //input[@name = 'data[0][Provider][last_name]' and @id = 'autoname1' and @placeholder = 'Smith' and @title = 'Enter last name' and @type = 'text']' not found)
+
+2018-04-17 09:52:34 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 09:52:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 09:52:37 - [TEST_STEP][FAILED] - setText: Unable to set text 'smith' of object 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' located by 'By.xpath: //input[@name = 'data[0][Provider][last_name]' and @id = 'autoname1' and @placeholder = 'Smith' and @title = 'Enter last name' and @type = 'text']' not found)
+
+2018-04-17 09:53:08 - [MESSAGE][FAILED] - Unable to set text 'smith' of object 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' located by 'By.xpath: //input[@name = 'data[0][Provider][last_name]' and @id = 'autoname1' and @placeholder = 'Smith' and @title = 'Enter last name' and @type = 'text']' not found)
+[[ATTACHMENT|C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Provider or Facility\\20180417_095145\\1523973188730.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-17 09:52:34 - [TEST_CASE][FAILED] - Test Cases/Search by Provider or Facility/PF_Last Name: Test Cases/Search by Provider or Facility/PF_Last Name FAILED because (of) Unable to set text 'smith' of object 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' located by 'By.xpath: //input[@name = 'data[0][Provider][last_name]' and @id = 'autoname1' and @placeholder = 'Smith' and @title = 'Enter last name' and @type = 'text']' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Provider or Facility/PF_Primary Care Providers Only" classname="Test Cases/Search by Provider or Facility/PF_Primary Care Providers Only" status="PASSED">
+         <system-out><![CDATA[2018-04-17 09:53:08 - [TEST_CASE][PASSED] - Test Cases/Search by Provider or Facility/PF_Primary Care Providers Only: Test Cases/Search by Provider or Facility/PF_Primary Care Providers Only
+
+2018-04-17 09:53:08 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 09:53:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-04-17 09:53:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 09:53:11 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:53:13 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:53:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (9)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:53:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (9)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:53:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (9)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-17 09:53:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (9)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-17 09:53:14 - [TEST_STEP][PASSED] - setText: Text 'smith' is set on object 'Object Repository/Page_PNDS (9)/input_data0Providerlast_name'
+
+2018-04-17 09:53:14 - [MESSAGE][PASSED] - Text 'smith' is set on object 'Object Repository/Page_PNDS (9)/input_data0Providerlast_name'
+
+2018-04-17 09:53:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (9)/button_Search' is clicked on
+
+2018-04-17 09:53:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (9)/button_Search' is clicked on
+
+2018-04-17 09:53:17 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 09:53:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Provider or Facility/PF_Shows Facilities Only" classname="Test Cases/Search by Provider or Facility/PF_Shows Facilities Only" status="PASSED">
+         <system-out><![CDATA[2018-04-17 09:53:17 - [TEST_CASE][PASSED] - Test Cases/Search by Provider or Facility/PF_Shows Facilities Only: Test Cases/Search by Provider or Facility/PF_Shows Facilities Only
+
+2018-04-17 09:53:17 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-17 09:53:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-17 09:53:19 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:53:21 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-17 09:53:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (8)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:53:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (8)/a_Search by Provider or Facili' is clicked on
+
+2018-04-17 09:53:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (8)/span_second-icon fa fa-check-s_1' is clicked on
+
+2018-04-17 09:53:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (8)/span_second-icon fa fa-check-s_1' is clicked on
+
+2018-04-17 09:53:23 - [TEST_STEP][PASSED] - setText: Text 'center' is set on object 'Object Repository/Page_PNDS (8)/input_data0PracticeProvidersit'
+
+2018-04-17 09:53:23 - [MESSAGE][PASSED] - Text 'center' is set on object 'Object Repository/Page_PNDS (8)/input_data0PracticeProvidersit'
+
+2018-04-17 09:53:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (8)/button_Search_1' is clicked on
+
+2018-04-17 09:53:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (8)/button_Search_1' is clicked on
+
+2018-04-17 09:53:25 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-17 09:53:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-04-17 09:51:46 - [TEST_SUITE][FAILED] - Search by Provider or Facility: Test Cases/Search by Provider or Facility/PF_Last Name FAILED because (of) Unable to set text 'smith' of object 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' located by 'By.xpath: //input[@name = 'data[0][Provider][last_name]' and @id = 'autoname1' and @placeholder = 'Smith' and @title = 'Enter last name' and @type = 'text']' not found)]]></system-out>
+      <system-err><![CDATA[2018-04-17 09:51:46 - [TEST_SUITE][FAILED] - Search by Provider or Facility: Test Cases/Search by Provider or Facility/PF_Last Name FAILED because (of) Unable to set text 'smith' of object 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (10)/input_data0Providerlast_name' located by 'By.xpath: //input[@name = 'data[0][Provider][last_name]' and @id = 'autoname1' and @placeholder = 'Smith' and @title = 'Enter last name' and @type = 'text']' not found)]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_EnglishArabicBengaliBan</name>
+   <tag></tag>
+   <elementGuidId>a9ac2830-2bad-4d87-8d92-d922ab16eed5</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>data[0][Practice][languages]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control border-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>0PracticeLanguages</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+English
+Arabic
+Bengali/Bangla
+Spanish
+French
+Korean
+Polish
+Russian
+Chinese
+Hatian-Creole
+(Afan)/Oromoor/Oriya
+Abkhazian
+Afar
+Afrikaans
+Albanian
+Amharic
+Armenian
+Assamese
+Australian
+Aymara
+Azerbaijani
+Balinese
+Bashkir
+Basque
+Bhutani
+Bihari
+Bislama
+Bosnian
+Breton
+Bulgarian
+Burmese
+Byelorussian
+Cambodian
+Catalan
+Corsican
+Croatian
+Czech
+Danish
+Dutch
+Esperanto
+Estonian
+Faeroese
+Fiji
+Finnish
+Frisian
+Galician
+Georgian
+German
+Greek
+Greenlandic
+Guarani
+Gujarati
+Hausa
+Hebrew
+Hindi
+Hungarian
+Icelandic
+Indonesian
+Interlingua
+Interlingue
+Inupiak
+Irish
+Italian
+Japanese
+Javanese
+Kannada
+Karen
+Kashmiri
+Kazakh
+Kinyarwanda
+Kirghiz
+Kirundi
+Kurdish
+Laothian
+Latin
+Latvian/Lettish
+Lingala
+Lithuanian
+Macedonian
+Malagasy
+Malay
+Malayalam
+Maltese
+Maori
+Marathi
+Romanian
+Mongolian
+Nauru
+Nepali
+Norwegian
+Occitan
+Pashto/Pushto
+Persian
+Portuguese
+Punjabi
+Quechua
+Rhaeto-Romance
+Samoan
+Sangro
+Sanskrit
+Scots/Gaelic
+Serbian
+Sesotho
+Setswana
+Shona
+Sindhi
+Singhalese
+Siswati
+Slovak
+Slovenian
+Somali
+Sundanese
+Swahili
+Swedish
+Tagalog
+Tajik
+Tamil
+Tatar
+Tegulu
+Thai
+Tibetan
+Tigrinya
+Tonga
+Tsonga
+Turkish
+Turkmen
+Twi
+Ukrainian
+Urdu
+Uzbek
+Vietnamese
+Volapuk
+Welsh
+Wolof
+Xhosa
+Yiddish
+Yoruba
+Zulu
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0PracticeLanguages&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

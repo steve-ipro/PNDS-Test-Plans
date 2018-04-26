@@ -1,0 +1,1014 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Health Plans and their Products,Firefox 59.0,,2018-04-17 09:23:28,2018-04-17 09:40:23,16m - 54.327s,FAILED
+,,,,,,
+Test Cases/Health Plans and their Products/Aetna,Firefox 59.0,,2018-04-17 09:23:29,2018-04-17 09:23:48,19.963s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:23:29,2018-04-17 09:23:33,4.012s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:23:33,2018-04-17 09:23:37,3.857s,PASSED
+click,Firefox 59.0,,2018-04-17 09:23:37,2018-04-17 09:23:38,1.035s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:38,2018-04-17 09:23:40,1.972s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:40,2018-04-17 09:23:40,0.651s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:40,2018-04-17 09:23:41,0.626s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:41,2018-04-17 09:23:42,0.624s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:42,2018-04-17 09:23:42,0.649s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:42,2018-04-17 09:23:43,0.689s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:43,2018-04-17 09:23:44,0.757s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:44,2018-04-17 09:23:44,0.734s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:44,2018-04-17 09:23:45,0.799s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:45,2018-04-17 09:23:46,0.729s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:46,2018-04-17 09:23:47,0.730s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:47,2018-04-17 09:23:47,0.819s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:47,2018-04-17 09:23:48,0.778s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:23:48,2018-04-17 09:23:48,0.225s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Affinity,Firefox 59.0,,2018-04-17 09:23:48,2018-04-17 09:24:01,12.804s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:23:49,2018-04-17 09:23:52,3.012s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:23:52,2018-04-17 09:23:56,3.819s,PASSED
+click,Firefox 59.0,,2018-04-17 09:23:56,2018-04-17 09:23:57,1.101s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:57,2018-04-17 09:23:58,1.791s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:58,2018-04-17 09:23:59,0.511s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:59,2018-04-17 09:23:59,0.544s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:23:59,2018-04-17 09:24:00,0.556s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:00,2018-04-17 09:24:01,0.529s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:01,2018-04-17 09:24:01,0.516s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:24:01,2018-04-17 09:24:01,0.206s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Agewell New York LLC,Firefox 59.0,,2018-04-17 09:24:01,2018-04-17 09:24:11,9.919s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:24:01,2018-04-17 09:24:04,2.996s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:24:04,2018-04-17 09:24:08,3.101s,PASSED
+click,Firefox 59.0,,2018-04-17 09:24:08,2018-04-17 09:24:08,0.882s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:08,2018-04-17 09:24:10,1.708s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:10,2018-04-17 09:24:11,0.418s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:11,2018-04-17 09:24:11,0.475s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:24:11,2018-04-17 09:24:11,0.210s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Alpha Care of New York Inc,Firefox 59.0,,2018-04-17 09:24:11,2018-04-17 09:24:21,9.611s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:24:11,2018-04-17 09:24:14,3.027s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:24:14,2018-04-17 09:24:18,3.202s,PASSED
+click,Firefox 59.0,,2018-04-17 09:24:18,2018-04-17 09:24:18,0.873s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:18,2018-04-17 09:24:20,1.754s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:20,2018-04-17 09:24:21,0.409s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:24:21,2018-04-17 09:24:21,0.237s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Ameritas,Firefox 59.0,,2018-04-17 09:24:21,2018-04-17 09:24:35,13.659s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:24:21,2018-04-17 09:24:24,3.069s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:24:24,2018-04-17 09:24:28,3.499s,PASSED
+click,Firefox 59.0,,2018-04-17 09:24:28,2018-04-17 09:24:28,0.833s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:28,2018-04-17 09:24:30,1.763s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:30,2018-04-17 09:24:31,0.577s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:31,2018-04-17 09:24:31,0.543s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:31,2018-04-17 09:24:32,0.547s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:32,2018-04-17 09:24:32,0.581s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:32,2018-04-17 09:24:33,0.605s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:33,2018-04-17 09:24:34,0.612s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:34,2018-04-17 09:24:34,0.605s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:24:34,2018-04-17 09:24:35,0.274s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/AmidaCare,Firefox 59.0,,2018-04-17 09:24:35,2018-04-17 09:24:43,8.466s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:24:35,2018-04-17 09:24:38,3.073s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:24:38,2018-04-17 09:24:39,1.667s,PASSED
+click,Firefox 59.0,,2018-04-17 09:24:39,2018-04-17 09:24:40,0.867s,PASSED
+click,Firefox 59.0,,2018-04-17 09:24:40,2018-04-17 09:24:40,0.262s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:40,2018-04-17 09:24:42,1.767s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:42,2018-04-17 09:24:43,0.460s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:24:43,2018-04-17 09:24:43,0.245s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/ArchCare,Firefox 59.0,,2018-04-17 09:24:43,2018-04-17 09:24:52,8.847s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:24:43,2018-04-17 09:24:46,3.048s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:24:46,2018-04-17 09:24:48,1.921s,PASSED
+click,Firefox 59.0,,2018-04-17 09:24:48,2018-04-17 09:24:49,0.866s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:49,2018-04-17 09:24:51,1.813s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:51,2018-04-17 09:24:51,0.413s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:51,2018-04-17 09:24:52,0.414s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:24:52,2018-04-17 09:24:52,0.248s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Axa Equitable,Firefox 59.0,,2018-04-17 09:24:52,2018-04-17 09:25:01,9.115s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:24:52,2018-04-17 09:24:55,3.016s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:24:55,2018-04-17 09:24:57,2.233s,PASSED
+click,Firefox 59.0,,2018-04-17 09:24:57,2018-04-17 09:24:58,0.873s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:24:58,2018-04-17 09:25:00,1.839s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:00,2018-04-17 09:25:00,0.424s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:00,2018-04-17 09:25:01,0.415s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:25:01,2018-04-17 09:25:01,0.197s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Blue Cross Blue Shield,Firefox 59.0,,2018-04-17 09:25:01,2018-04-17 09:25:16,14.955s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:25:01,2018-04-17 09:25:04,3.039s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:25:04,2018-04-17 09:25:06,1.793s,PASSED
+click,Firefox 59.0,,2018-04-17 09:25:06,2018-04-17 09:25:08,1.632s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:08,2018-04-17 09:25:09,1.864s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:09,2018-04-17 09:25:10,0.526s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:10,2018-04-17 09:25:10,0.527s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:10,2018-04-17 09:25:11,0.640s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:11,2018-04-17 09:25:12,0.687s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:12,2018-04-17 09:25:12,0.646s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:12,2018-04-17 09:25:13,0.661s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:13,2018-04-17 09:25:14,0.635s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:14,2018-04-17 09:25:14,0.657s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:14,2018-04-17 09:25:15,0.681s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:15,2018-04-17 09:25:16,0.674s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:25:16,2018-04-17 09:25:16,0.188s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Capital District,Firefox 59.0,,2018-04-17 09:25:16,2018-04-17 09:25:27,11.056s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:25:16,2018-04-17 09:25:19,3.010s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:25:19,2018-04-17 09:25:21,1.685s,PASSED
+click,Firefox 59.0,,2018-04-17 09:25:21,2018-04-17 09:25:22,0.842s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:22,2018-04-17 09:25:23,1.866s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:23,2018-04-17 09:25:24,0.505s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:24,2018-04-17 09:25:24,0.470s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:24,2018-04-17 09:25:25,0.512s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:25,2018-04-17 09:25:25,0.549s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:25,2018-04-17 09:25:26,0.670s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:26,2018-04-17 09:25:27,0.613s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:25:27,2018-04-17 09:25:27,0.227s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Catholic Health,Firefox 59.0,,2018-04-17 09:25:27,2018-04-17 09:25:35,8.231s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:25:27,2018-04-17 09:25:30,2.992s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:25:30,2018-04-17 09:25:32,1.847s,PASSED
+click,Firefox 59.0,,2018-04-17 09:25:32,2018-04-17 09:25:33,0.862s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:33,2018-04-17 09:25:35,1.834s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:35,2018-04-17 09:25:35,0.378s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:25:35,2018-04-17 09:25:35,0.191s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Centerlight Health,Firefox 59.0,,2018-04-17 09:25:35,2018-04-17 09:25:44,9.249s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:25:35,2018-04-17 09:25:38,2.962s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:25:38,2018-04-17 09:25:40,1.951s,PASSED
+click,Firefox 59.0,,2018-04-17 09:25:40,2018-04-17 09:25:42,1.779s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:42,2018-04-17 09:25:44,1.876s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:44,2018-04-17 09:25:44,0.381s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:25:44,2018-04-17 09:25:44,0.202s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Centers Plan for Healthy living,Firefox 59.0,,2018-04-17 09:25:44,2018-04-17 09:25:53,8.896s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:25:45,2018-04-17 09:25:48,3.006s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:25:48,2018-04-17 09:25:49,1.810s,PASSED
+click,Firefox 59.0,,2018-04-17 09:25:49,2018-04-17 09:25:50,0.946s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:50,2018-04-17 09:25:52,1.955s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:52,2018-04-17 09:25:53,0.427s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:53,2018-04-17 09:25:53,0.432s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:25:53,2018-04-17 09:25:53,0.211s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Cigna,Firefox 59.0,,2018-04-17 09:25:53,2018-04-17 09:26:04,11.077s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:25:53,2018-04-17 09:25:56,2.965s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:25:56,2018-04-17 09:25:58,1.823s,PASSED
+click,Firefox 59.0,,2018-04-17 09:25:58,2018-04-17 09:25:59,0.904s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:25:59,2018-04-17 09:26:01,1.941s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:01,2018-04-17 09:26:02,0.462s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:02,2018-04-17 09:26:02,0.483s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:02,2018-04-17 09:26:03,0.499s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:03,2018-04-17 09:26:03,0.522s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:03,2018-04-17 09:26:04,0.551s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:04,2018-04-17 09:26:04,0.609s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:26:04,2018-04-17 09:26:04,0.187s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Commercial Travelers,Firefox 59.0,,2018-04-17 09:26:04,2018-04-17 09:26:14,9.228s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:26:05,2018-04-17 09:26:08,3.010s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:26:08,2018-04-17 09:26:09,1.801s,PASSED
+click,Firefox 59.0,,2018-04-17 09:26:09,2018-04-17 09:26:10,0.842s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:10,2018-04-17 09:26:12,1.903s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:12,2018-04-17 09:26:13,0.433s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:13,2018-04-17 09:26:13,0.447s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:13,2018-04-17 09:26:13,0.476s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:26:13,2018-04-17 09:26:14,0.207s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Complete Senior Care,Firefox 59.0,,2018-04-17 09:26:14,2018-04-17 09:26:22,8.179s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:26:14,2018-04-17 09:26:17,2.981s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:26:17,2018-04-17 09:26:18,1.704s,PASSED
+click,Firefox 59.0,,2018-04-17 09:26:18,2018-04-17 09:26:19,0.861s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:19,2018-04-17 09:26:21,1.931s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:21,2018-04-17 09:26:22,0.380s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:26:22,2018-04-17 09:26:22,0.203s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Consolidated health,Firefox 59.0,,2018-04-17 09:26:22,2018-04-17 09:26:32,10.270s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:26:22,2018-04-17 09:26:25,3.024s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:26:25,2018-04-17 09:26:28,2.727s,PASSED
+click,Firefox 59.0,,2018-04-17 09:26:28,2018-04-17 09:26:29,0.906s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:29,2018-04-17 09:26:31,1.934s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:31,2018-04-17 09:26:31,0.410s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:31,2018-04-17 09:26:31,0.432s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:31,2018-04-17 09:26:32,0.530s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:26:32,2018-04-17 09:26:32,0.193s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/CrystalRun,Firefox 59.0,,2018-04-17 09:26:32,2018-04-17 09:26:44,11.544s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:26:32,2018-04-17 09:26:35,2.968s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:26:35,2018-04-17 09:26:39,3.648s,PASSED
+click,Firefox 59.0,,2018-04-17 09:26:39,2018-04-17 09:26:40,1.200s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:40,2018-04-17 09:26:42,2.013s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:42,2018-04-17 09:26:43,0.474s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:43,2018-04-17 09:26:43,0.469s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:43,2018-04-17 09:26:43,0.469s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:26:43,2018-04-17 09:26:44,0.202s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Delaware American Life insurance,Firefox 59.0,,2018-04-17 09:26:44,2018-04-17 09:26:56,12.261s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:26:44,2018-04-17 09:26:47,2.974s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:26:47,2018-04-17 09:26:51,3.918s,PASSED
+click,Firefox 59.0,,2018-04-17 09:26:51,2018-04-17 09:26:52,1.023s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:52,2018-04-17 09:26:54,2.014s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:54,2018-04-17 09:26:54,0.480s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:54,2018-04-17 09:26:55,0.492s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:55,2018-04-17 09:26:55,0.513s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:26:55,2018-04-17 09:26:56,0.490s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:26:56,2018-04-17 09:26:56,0.260s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Delta Dental of New York,Firefox 59.0,,2018-04-17 09:26:56,2018-04-17 09:27:09,13.275s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:26:56,2018-04-17 09:26:59,3.036s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:26:59,2018-04-17 09:27:03,4.143s,PASSED
+click,Firefox 59.0,,2018-04-17 09:27:03,2018-04-17 09:27:04,1.184s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:04,2018-04-17 09:27:06,2.094s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:06,2018-04-17 09:27:07,0.515s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:07,2018-04-17 09:27:07,0.478s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:07,2018-04-17 09:27:08,0.480s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:08,2018-04-17 09:27:08,0.504s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:08,2018-04-17 09:27:09,0.530s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:27:09,2018-04-17 09:27:09,0.198s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Dental Health Alliance,Firefox 59.0,,2018-04-17 09:27:09,2018-04-17 09:27:20,10.454s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:27:09,2018-04-17 09:27:12,2.993s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:27:12,2018-04-17 09:27:16,3.854s,PASSED
+click,Firefox 59.0,,2018-04-17 09:27:16,2018-04-17 09:27:17,0.844s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:17,2018-04-17 09:27:19,2.040s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:19,2018-04-17 09:27:19,0.398s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:27:19,2018-04-17 09:27:20,0.229s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/DentCare,Firefox 59.0,,2018-04-17 09:27:20,2018-04-17 09:27:31,11.619s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:27:20,2018-04-17 09:27:23,3.084s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:27:23,2018-04-17 09:27:27,4.163s,PASSED
+click,Firefox 59.0,,2018-04-17 09:27:27,2018-04-17 09:27:28,1.078s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:28,2018-04-17 09:27:30,2.113s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:30,2018-04-17 09:27:31,0.450s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:31,2018-04-17 09:27:31,0.420s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:27:31,2018-04-17 09:27:31,0.200s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Dentegra,Firefox 59.0,,2018-04-17 09:27:31,2018-04-17 09:27:51,19.295s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:27:31,2018-04-17 09:27:34,2.995s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:27:34,2018-04-17 09:27:38,3.417s,PASSED
+click,Firefox 59.0,,2018-04-17 09:27:38,2018-04-17 09:27:39,1.338s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:39,2018-04-17 09:27:41,2.066s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:41,2018-04-17 09:27:42,0.435s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:27:42,2018-04-17 09:27:42,0.202s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:27:42,2018-04-17 09:27:45,2.979s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:27:45,2018-04-17 09:27:47,1.952s,PASSED
+click,Firefox 59.0,,2018-04-17 09:27:47,2018-04-17 09:27:48,0.803s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:48,2018-04-17 09:27:50,1.989s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:50,2018-04-17 09:27:50,0.395s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:50,2018-04-17 09:27:50,0.435s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:27:50,2018-04-17 09:27:51,0.200s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Eastern Vision Services,Firefox 59.0,,2018-04-17 09:27:51,2018-04-17 09:28:00,9.152s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:27:51,2018-04-17 09:27:54,3.049s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:27:54,2018-04-17 09:27:56,2.158s,PASSED
+click,Firefox 59.0,,2018-04-17 09:27:56,2018-04-17 09:27:57,0.829s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:57,2018-04-17 09:27:59,2.003s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:59,2018-04-17 09:27:59,0.402s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:27:59,2018-04-17 09:28:00,0.412s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:28:00,2018-04-17 09:28:00,0.194s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Eddy Senior Care,Firefox 59.0,,2018-04-17 09:28:00,2018-04-17 09:28:09,9.131s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:28:00,2018-04-17 09:28:03,3.033s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:28:03,2018-04-17 09:28:05,2.395s,PASSED
+click,Firefox 59.0,,2018-04-17 09:28:05,2018-04-17 09:28:06,0.977s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:06,2018-04-17 09:28:08,2.017s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:08,2018-04-17 09:28:09,0.396s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:28:09,2018-04-17 09:28:09,0.208s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Elant Choice,Firefox 59.0,,2018-04-17 09:28:09,2018-04-17 09:28:18,8.839s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:28:09,2018-04-17 09:28:12,3.038s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:28:12,2018-04-17 09:28:14,2.281s,PASSED
+click,Firefox 59.0,,2018-04-17 09:28:14,2018-04-17 09:28:15,0.842s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:15,2018-04-17 09:28:17,2.003s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:17,2018-04-17 09:28:17,0.379s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:28:17,2018-04-17 09:28:18,0.193s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Elderplan Inc,Firefox 59.0,,2018-04-17 09:28:18,2018-04-17 09:28:28,10.229s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:28:18,2018-04-17 09:28:21,3.019s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:28:21,2018-04-17 09:28:23,2.610s,PASSED
+click,Firefox 59.0,,2018-04-17 09:28:23,2018-04-17 09:28:24,0.822s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:24,2018-04-17 09:28:26,2.034s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:26,2018-04-17 09:28:27,0.479s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:27,2018-04-17 09:28:27,0.437s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:27,2018-04-17 09:28:28,0.525s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:28:28,2018-04-17 09:28:28,0.182s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/ElderServe Health,Firefox 59.0,,2018-04-17 09:28:28,2018-04-17 09:28:37,8.948s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:28:28,2018-04-17 09:28:31,2.980s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:28:31,2018-04-17 09:28:33,1.782s,PASSED
+click,Firefox 59.0,,2018-04-17 09:28:33,2018-04-17 09:28:34,0.880s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:34,2018-04-17 09:28:36,2.172s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:36,2018-04-17 09:28:36,0.414s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:36,2018-04-17 09:28:37,0.429s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:28:37,2018-04-17 09:28:37,0.190s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Emblem Health,Firefox 59.0,,2018-04-17 09:28:37,2018-04-17 09:28:50,12.674s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:28:37,2018-04-17 09:28:40,2.994s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:28:40,2018-04-17 09:28:42,1.783s,PASSED
+click,Firefox 59.0,,2018-04-17 09:28:42,2018-04-17 09:28:43,0.829s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:43,2018-04-17 09:28:45,2.176s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:45,2018-04-17 09:28:45,0.494s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:45,2018-04-17 09:28:46,0.506s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:46,2018-04-17 09:28:46,0.529s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:46,2018-04-17 09:28:47,0.658s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:47,2018-04-17 09:28:48,0.629s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:48,2018-04-17 09:28:48,0.580s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:48,2018-04-17 09:28:49,0.575s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:49,2018-04-17 09:28:49,0.619s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:28:49,2018-04-17 09:28:50,0.190s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Empire BCBS,Firefox 59.0,,2018-04-17 09:28:50,2018-04-17 09:29:09,19.526s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:28:50,2018-04-17 09:28:53,3.104s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:28:53,2018-04-17 09:28:55,2.546s,PASSED
+click,Firefox 59.0,,2018-04-17 09:28:55,2018-04-17 09:28:56,0.991s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:56,2018-04-17 09:28:58,2.123s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:58,2018-04-17 09:28:59,0.641s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:28:59,2018-04-17 09:29:00,0.862s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:00,2018-04-17 09:29:01,0.704s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:01,2018-04-17 09:29:01,0.662s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:01,2018-04-17 09:29:02,0.664s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:02,2018-04-17 09:29:03,0.681s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:03,2018-04-17 09:29:03,0.715s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:03,2018-04-17 09:29:04,0.785s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:04,2018-04-17 09:29:05,0.770s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:05,2018-04-17 09:29:06,0.771s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:06,2018-04-17 09:29:06,0.754s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:06,2018-04-17 09:29:07,0.824s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:07,2018-04-17 09:29:08,0.817s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:08,2018-04-17 09:29:09,0.822s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:29:09,2018-04-17 09:29:09,0.185s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Excellus BlueCross BlueShield,Firefox 59.0,,2018-04-17 09:29:09,2018-04-17 09:29:23,13.772s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:29:09,2018-04-17 09:29:12,3.001s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:29:12,2018-04-17 09:29:14,1.925s,PASSED
+click,Firefox 59.0,,2018-04-17 09:29:14,2018-04-17 09:29:15,0.799s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:15,2018-04-17 09:29:17,2.120s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:17,2018-04-17 09:29:18,0.542s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:18,2018-04-17 09:29:18,0.560s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:18,2018-04-17 09:29:19,0.679s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:19,2018-04-17 09:29:19,0.638s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:19,2018-04-17 09:29:20,0.648s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:20,2018-04-17 09:29:21,0.607s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:21,2018-04-17 09:29:21,0.609s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:21,2018-04-17 09:29:22,0.618s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:22,2018-04-17 09:29:23,0.657s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:29:23,2018-04-17 09:29:23,0.217s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Extended MLTC,Firefox 59.0,,2018-04-17 09:29:23,2018-04-17 09:29:33,10.360s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:29:23,2018-04-17 09:29:26,3.011s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:29:26,2018-04-17 09:29:29,2.712s,PASSED
+click,Firefox 59.0,,2018-04-17 09:29:29,2018-04-17 09:29:30,1.809s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:30,2018-04-17 09:29:33,2.148s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:33,2018-04-17 09:29:33,0.398s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:29:33,2018-04-17 09:29:33,0.190s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Fallon Health Weinberg,Firefox 59.0,,2018-04-17 09:29:33,2018-04-17 09:29:42,9.138s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:29:33,2018-04-17 09:29:36,2.995s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:29:36,2018-04-17 09:29:38,1.971s,PASSED
+click,Firefox 59.0,,2018-04-17 09:29:38,2018-04-17 09:29:39,0.931s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:39,2018-04-17 09:29:41,2.108s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:41,2018-04-17 09:29:42,0.389s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:42,2018-04-17 09:29:42,0.429s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:29:42,2018-04-17 09:29:42,0.217s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Fidelis,Firefox 59.0,,2018-04-17 09:29:42,2018-04-17 09:29:56,13.810s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:29:42,2018-04-17 09:29:45,3.023s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:29:45,2018-04-17 09:29:48,2.100s,PASSED
+click,Firefox 59.0,,2018-04-17 09:29:48,2018-04-17 09:29:48,0.786s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:48,2018-04-17 09:29:50,2.126s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:50,2018-04-17 09:29:51,0.519s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:51,2018-04-17 09:29:52,0.503s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:52,2018-04-17 09:29:52,0.602s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:52,2018-04-17 09:29:53,0.613s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:53,2018-04-17 09:29:53,0.649s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:53,2018-04-17 09:29:54,0.613s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:54,2018-04-17 09:29:55,0.638s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:55,2018-04-17 09:29:55,0.660s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:29:55,2018-04-17 09:29:56,0.653s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:29:56,2018-04-17 09:29:56,0.212s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Fidelity Security,Firefox 59.0,,2018-04-17 09:29:56,2018-04-17 09:30:07,10.999s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:29:56,2018-04-17 09:29:59,2.965s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:29:59,2018-04-17 09:30:01,1.922s,PASSED
+click,Firefox 59.0,,2018-04-17 09:30:01,2018-04-17 09:30:02,0.867s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:02,2018-04-17 09:30:04,2.288s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:04,2018-04-17 09:30:05,0.467s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:05,2018-04-17 09:30:05,0.478s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:05,2018-04-17 09:30:06,0.553s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:06,2018-04-17 09:30:06,0.543s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:06,2018-04-17 09:30:07,0.568s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:30:07,2018-04-17 09:30:07,0.242s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/First Reliance,Firefox 59.0,,2018-04-17 09:30:07,2018-04-17 09:30:19,11.640s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:30:07,2018-04-17 09:30:10,2.992s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:30:10,2018-04-17 09:30:12,1.844s,PASSED
+click,Firefox 59.0,,2018-04-17 09:30:12,2018-04-17 09:30:13,0.902s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:13,2018-04-17 09:30:15,2.147s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:15,2018-04-17 09:30:16,0.528s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:16,2018-04-17 09:30:16,0.512s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:16,2018-04-17 09:30:17,0.633s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:17,2018-04-17 09:30:17,0.588s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:17,2018-04-17 09:30:18,0.610s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:18,2018-04-17 09:30:19,0.552s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:30:19,2018-04-17 09:30:19,0.235s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Gerber Life insurance,Firefox 59.0,,2018-04-17 09:30:19,2018-04-17 09:30:27,8.643s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:30:19,2018-04-17 09:30:22,2.994s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:30:22,2018-04-17 09:30:24,1.751s,PASSED
+click,Firefox 59.0,,2018-04-17 09:30:24,2018-04-17 09:30:25,0.875s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:25,2018-04-17 09:30:27,2.327s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:27,2018-04-17 09:30:27,0.407s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:30:27,2018-04-17 09:30:27,0.191s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Guardian Life insurance,Firefox 59.0,,2018-04-17 09:30:27,2018-04-17 09:30:38,10.229s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:30:28,2018-04-17 09:30:31,2.978s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:30:31,2018-04-17 09:30:32,1.769s,PASSED
+click,Firefox 59.0,,2018-04-17 09:30:32,2018-04-17 09:30:33,0.921s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:33,2018-04-17 09:30:36,2.300s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:36,2018-04-17 09:30:36,0.451s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:36,2018-04-17 09:30:36,0.472s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:36,2018-04-17 09:30:37,0.471s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:37,2018-04-17 09:30:37,0.571s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:30:37,2018-04-17 09:30:38,0.196s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Guildnet,Firefox 59.0,,2018-04-17 09:30:38,2018-04-17 09:30:47,9.702s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:30:38,2018-04-17 09:30:40,2.512s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:30:40,2018-04-17 09:30:42,1.731s,PASSED
+click,Firefox 59.0,,2018-04-17 09:30:42,2018-04-17 09:30:43,0.977s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:43,2018-04-17 09:30:45,2.275s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:45,2018-04-17 09:30:46,0.468s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:46,2018-04-17 09:30:46,0.456s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:46,2018-04-17 09:30:47,0.464s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:47,2018-04-17 09:30:47,0.484s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:30:47,2018-04-17 09:30:47,0.234s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Hamaspik Choice,Firefox 59.0,,2018-04-17 09:30:47,2018-04-17 09:30:56,8.594s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:30:47,2018-04-17 09:30:50,2.969s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:30:50,2018-04-17 09:30:52,1.780s,PASSED
+click,Firefox 59.0,,2018-04-17 09:30:52,2018-04-17 09:30:53,0.845s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:53,2018-04-17 09:30:55,2.319s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:30:55,2018-04-17 09:30:56,0.394s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:30:56,2018-04-17 09:30:56,0.192s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Health Plex,Firefox 59.0,,2018-04-17 09:30:56,2018-04-17 09:31:05,9.437s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:30:56,2018-04-17 09:30:59,2.988s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:30:59,2018-04-17 09:31:01,1.945s,PASSED
+click,Firefox 59.0,,2018-04-17 09:31:01,2018-04-17 09:31:02,0.948s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:02,2018-04-17 09:31:04,2.372s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:04,2018-04-17 09:31:05,0.431s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:05,2018-04-17 09:31:05,0.414s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:31:05,2018-04-17 09:31:05,0.244s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/HealthFirst,Firefox 59.0,,2018-04-17 09:31:05,2018-04-17 09:31:20,14.584s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:31:06,2018-04-17 09:31:09,2.988s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:31:09,2018-04-17 09:31:10,1.728s,PASSED
+click,Firefox 59.0,,2018-04-17 09:31:10,2018-04-17 09:31:11,0.912s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:11,2018-04-17 09:31:14,2.417s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:14,2018-04-17 09:31:14,0.541s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:14,2018-04-17 09:31:15,0.531s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:15,2018-04-17 09:31:15,0.605s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:15,2018-04-17 09:31:16,0.632s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:16,2018-04-17 09:31:16,0.614s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:16,2018-04-17 09:31:17,0.602s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:17,2018-04-17 09:31:18,0.645s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:18,2018-04-17 09:31:18,0.705s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:18,2018-04-17 09:31:19,0.639s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:19,2018-04-17 09:31:20,0.719s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:31:20,2018-04-17 09:31:20,0.209s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Humana,Firefox 59.0,,2018-04-17 09:31:20,2018-04-17 09:31:30,10.303s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:31:20,2018-04-17 09:31:23,3.005s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:31:23,2018-04-17 09:31:25,2.372s,PASSED
+click,Firefox 59.0,,2018-04-17 09:31:25,2018-04-17 09:31:26,0.868s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:26,2018-04-17 09:31:29,2.251s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:29,2018-04-17 09:31:29,0.431s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:29,2018-04-17 09:31:29,0.443s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:29,2018-04-17 09:31:30,0.611s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:31:30,2018-04-17 09:31:30,0.214s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Icircle,Firefox 59.0,,2018-04-17 09:31:30,2018-04-17 09:31:39,8.846s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:31:30,2018-04-17 09:31:33,2.992s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:31:33,2018-04-17 09:31:35,2.007s,PASSED
+click,Firefox 59.0,,2018-04-17 09:31:35,2018-04-17 09:31:36,0.860s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:36,2018-04-17 09:31:39,2.290s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:39,2018-04-17 09:31:39,0.398s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:31:39,2018-04-17 09:31:39,0.197s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Independence American Insurance Company,Firefox 59.0,,2018-04-17 09:31:39,2018-04-17 09:31:49,9.354s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:31:39,2018-04-17 09:31:42,3.002s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:31:42,2018-04-17 09:31:44,1.962s,PASSED
+click,Firefox 59.0,,2018-04-17 09:31:44,2018-04-17 09:31:45,0.841s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:45,2018-04-17 09:31:47,2.326s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:47,2018-04-17 09:31:48,0.409s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:48,2018-04-17 09:31:48,0.461s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:31:48,2018-04-17 09:31:49,0.218s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Independent Health Benefits,Firefox 59.0,,2018-04-17 09:31:49,2018-04-17 09:32:02,13.877s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:31:49,2018-04-17 09:31:52,2.993s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:31:52,2018-04-17 09:31:53,1.750s,PASSED
+click,Firefox 59.0,,2018-04-17 09:31:53,2018-04-17 09:31:54,1.061s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:54,2018-04-17 09:31:57,2.336s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:57,2018-04-17 09:31:57,0.545s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:57,2018-04-17 09:31:58,0.543s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:58,2018-04-17 09:31:58,0.574s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:58,2018-04-17 09:31:59,0.613s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:31:59,2018-04-17 09:32:00,0.633s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:00,2018-04-17 09:32:00,0.593s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:00,2018-04-17 09:32:01,0.635s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:01,2018-04-17 09:32:02,0.650s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:02,2018-04-17 09:32:02,0.616s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:32:02,2018-04-17 09:32:02,0.228s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Independent Living for Seniors,Firefox 59.0,,2018-04-17 09:32:02,2018-04-17 09:32:14,11.778s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:32:03,2018-04-17 09:32:06,3.059s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:32:06,2018-04-17 09:32:10,4.084s,PASSED
+click,Firefox 59.0,,2018-04-17 09:32:10,2018-04-17 09:32:11,1.348s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:11,2018-04-17 09:32:14,2.549s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:14,2018-04-17 09:32:14,0.428s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:32:14,2018-04-17 09:32:14,0.202s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Integra MLTC inc,Firefox 59.0,,2018-04-17 09:32:14,2018-04-17 09:32:25,10.609s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:32:14,2018-04-17 09:32:17,3.066s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:32:17,2018-04-17 09:32:20,2.691s,PASSED
+click,Firefox 59.0,,2018-04-17 09:32:20,2018-04-17 09:32:22,1.791s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:22,2018-04-17 09:32:24,2.351s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:24,2018-04-17 09:32:25,0.385s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:32:25,2018-04-17 09:32:25,0.217s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Jefferson-Lewis et. al School Employees HealthCare,Firefox 59.0,,2018-04-17 09:32:25,2018-04-17 09:32:34,8.910s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:32:25,2018-04-17 09:32:28,2.976s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:32:28,2018-04-17 09:32:30,1.803s,PASSED
+click,Firefox 59.0,,2018-04-17 09:32:30,2018-04-17 09:32:31,0.894s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:31,2018-04-17 09:32:33,2.546s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:33,2018-04-17 09:32:33,0.392s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:32:33,2018-04-17 09:32:34,0.203s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Kalos Health,Firefox 59.0,,2018-04-17 09:32:34,2018-04-17 09:32:43,8.842s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:32:34,2018-04-17 09:32:37,2.967s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:32:37,2018-04-17 09:32:39,1.822s,PASSED
+click,Firefox 59.0,,2018-04-17 09:32:39,2018-04-17 09:32:39,0.863s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:39,2018-04-17 09:32:42,2.513s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:42,2018-04-17 09:32:42,0.377s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:32:42,2018-04-17 09:32:43,0.205s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Lincoln Life and Annuity Company,Firefox 59.0,,2018-04-17 09:32:43,2018-04-17 09:32:52,9.958s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:32:43,2018-04-17 09:32:46,2.999s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:32:46,2018-04-17 09:32:48,1.967s,PASSED
+click,Firefox 59.0,,2018-04-17 09:32:48,2018-04-17 09:32:48,0.828s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:48,2018-04-17 09:32:51,2.494s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:51,2018-04-17 09:32:51,0.427s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:51,2018-04-17 09:32:52,0.470s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:52,2018-04-17 09:32:52,0.450s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:32:52,2018-04-17 09:32:52,0.213s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Met Life,Firefox 59.0,,2018-04-17 09:32:52,2018-04-17 09:33:02,9.372s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:32:53,2018-04-17 09:32:56,2.981s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:32:56,2018-04-17 09:32:57,1.778s,PASSED
+click,Firefox 59.0,,2018-04-17 09:32:57,2018-04-17 09:32:58,0.930s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:32:58,2018-04-17 09:33:01,2.438s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:01,2018-04-17 09:33:01,0.406s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:01,2018-04-17 09:33:02,0.456s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:33:02,2018-04-17 09:33:02,0.227s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/MetroPlus,Firefox 59.0,,2018-04-17 09:33:02,2018-04-17 09:33:17,14.808s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:33:02,2018-04-17 09:33:05,2.977s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:33:05,2018-04-17 09:33:07,1.992s,PASSED
+click,Firefox 59.0,,2018-04-17 09:33:07,2018-04-17 09:33:08,0.818s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:08,2018-04-17 09:33:10,2.424s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:10,2018-04-17 09:33:11,0.548s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:11,2018-04-17 09:33:11,0.552s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:11,2018-04-17 09:33:12,0.700s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:12,2018-04-17 09:33:13,0.626s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:13,2018-04-17 09:33:13,0.616s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:13,2018-04-17 09:33:14,0.609s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:14,2018-04-17 09:33:14,0.625s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:14,2018-04-17 09:33:15,0.645s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:15,2018-04-17 09:33:16,0.635s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:16,2018-04-17 09:33:16,0.706s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:33:16,2018-04-17 09:33:17,0.221s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Molina,Firefox 59.0,,2018-04-17 09:33:17,2018-04-17 09:33:30,13.041s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:33:17,2018-04-17 09:33:20,2.995s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:33:20,2018-04-17 09:33:24,4.064s,PASSED
+click,Firefox 59.0,,2018-04-17 09:33:24,2018-04-17 09:33:25,1.227s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:25,2018-04-17 09:33:28,2.634s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:28,2018-04-17 09:33:28,0.441s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:28,2018-04-17 09:33:29,0.442s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:29,2018-04-17 09:33:29,0.472s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:29,2018-04-17 09:33:30,0.470s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:33:30,2018-04-17 09:33:30,0.196s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Montefiore Diamond Care,Firefox 59.0,,2018-04-17 09:33:30,2018-04-17 09:33:40,9.877s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:33:30,2018-04-17 09:33:33,2.985s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:33:33,2018-04-17 09:33:36,2.900s,PASSED
+click,Firefox 59.0,,2018-04-17 09:33:36,2018-04-17 09:33:37,0.823s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:37,2018-04-17 09:33:39,2.446s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:39,2018-04-17 09:33:39,0.426s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:33:39,2018-04-17 09:33:40,0.202s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/MVP Health Care,Firefox 59.0,,2018-04-17 09:33:40,2018-04-17 09:33:53,13.282s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:33:40,2018-04-17 09:33:43,3.003s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:33:43,2018-04-17 09:33:45,1.994s,PASSED
+click,Firefox 59.0,,2018-04-17 09:33:45,2018-04-17 09:33:46,0.967s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:46,2018-04-17 09:33:48,2.441s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:48,2018-04-17 09:33:49,0.482s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:49,2018-04-17 09:33:49,0.504s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:49,2018-04-17 09:33:50,0.607s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:50,2018-04-17 09:33:50,0.603s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:50,2018-04-17 09:33:51,0.569s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:51,2018-04-17 09:33:51,0.561s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:51,2018-04-17 09:33:52,0.612s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:52,2018-04-17 09:33:53,0.614s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:33:53,2018-04-17 09:33:53,0.231s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Nationwide Life Insurance,Firefox 59.0,,2018-04-17 09:33:53,2018-04-17 09:34:03,9.888s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:33:53,2018-04-17 09:33:56,3.050s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:33:56,2018-04-17 09:33:58,2.360s,PASSED
+click,Firefox 59.0,,2018-04-17 09:33:58,2018-04-17 09:33:59,0.809s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:33:59,2018-04-17 09:34:02,2.441s,PASSED
+click,Firefox 59.0,,2018-04-17 09:34:02,2018-04-17 09:34:02,0.244s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:02,2018-04-17 09:34:02,0.394s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:34:02,2018-04-17 09:34:03,0.494s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Niagara Advantage LLC,Firefox 59.0,,2018-04-17 09:34:03,2018-04-17 09:34:12,9.502s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:34:03,2018-04-17 09:34:05,2.548s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:34:05,2018-04-17 09:34:07,1.925s,PASSED
+click,Firefox 59.0,,2018-04-17 09:34:07,2018-04-17 09:34:09,1.808s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:09,2018-04-17 09:34:12,2.545s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:12,2018-04-17 09:34:12,0.382s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:34:12,2018-04-17 09:34:12,0.208s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Nippon Life Insurance,Firefox 59.0,,2018-04-17 09:34:12,2018-04-17 09:34:23,11.200s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:34:12,2018-04-17 09:34:15,2.989s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:34:15,2018-04-17 09:34:17,1.899s,PASSED
+click,Firefox 59.0,,2018-04-17 09:34:17,2018-04-17 09:34:18,0.887s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:18,2018-04-17 09:34:21,2.578s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:21,2018-04-17 09:34:21,0.449s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:21,2018-04-17 09:34:22,0.455s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:22,2018-04-17 09:34:22,0.556s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:22,2018-04-17 09:34:23,0.546s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:23,2018-04-17 09:34:23,0.551s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:34:23,2018-04-17 09:34:23,0.198s,PASSED
+,,,,,,
+"Test Cases/Health Plans and their Products/North Shore LIJ, CareConnect",Firefox 59.0,,2018-04-17 09:34:23,2018-04-17 09:34:35,11.192s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:34:24,2018-04-17 09:34:27,3.047s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:34:27,2018-04-17 09:34:30,3.201s,PASSED
+click,Firefox 59.0,,2018-04-17 09:34:30,2018-04-17 09:34:31,1.633s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:31,2018-04-17 09:34:34,2.598s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:34,2018-04-17 09:34:34,0.430s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:34:34,2018-04-17 09:34:35,0.191s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Oscar,Firefox 59.0,,2018-04-17 09:34:35,2018-04-17 09:34:44,9.262s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:34:35,2018-04-17 09:34:38,3.006s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:34:38,2018-04-17 09:34:40,1.964s,PASSED
+click,Firefox 59.0,,2018-04-17 09:34:40,2018-04-17 09:34:41,0.938s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:41,2018-04-17 09:34:43,2.659s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:43,2018-04-17 09:34:44,0.387s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:34:44,2018-04-17 09:34:44,0.215s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Oxford HealthPlans NY,Firefox 59.0,,2018-04-17 09:34:44,2018-04-17 09:34:54,9.941s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:34:44,2018-04-17 09:34:47,3.012s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:34:47,2018-04-17 09:34:49,1.946s,PASSED
+click,Firefox 59.0,,2018-04-17 09:34:49,2018-04-17 09:34:50,0.823s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:50,2018-04-17 09:34:52,2.508s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:52,2018-04-17 09:34:53,0.443s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:53,2018-04-17 09:34:53,0.433s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:34:53,2018-04-17 09:34:54,0.483s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:34:54,2018-04-17 09:34:54,0.195s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Pace CNY,Firefox 59.0,,2018-04-17 09:34:54,2018-04-17 09:35:03,9.170s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:34:54,2018-04-17 09:34:57,3.000s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:34:57,2018-04-17 09:34:59,1.964s,PASSED
+click,Firefox 59.0,,2018-04-17 09:34:59,2018-04-17 09:35:00,0.813s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:00,2018-04-17 09:35:02,2.672s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:02,2018-04-17 09:35:03,0.397s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:35:03,2018-04-17 09:35:03,0.231s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Physicians Mutual Insurance Company,Firefox 59.0,,2018-04-17 09:35:03,2018-04-17 09:35:12,8.834s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:35:03,2018-04-17 09:35:06,3.024s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:35:06,2018-04-17 09:35:08,1.715s,PASSED
+click,Firefox 59.0,,2018-04-17 09:35:08,2018-04-17 09:35:09,0.892s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:09,2018-04-17 09:35:11,2.510s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:11,2018-04-17 09:35:12,0.371s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:35:12,2018-04-17 09:35:12,0.208s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Prime Health Choice,Firefox 59.0,,2018-04-17 09:35:12,2018-04-17 09:35:21,9.127s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:35:12,2018-04-17 09:35:15,2.970s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:35:15,2018-04-17 09:35:17,1.986s,PASSED
+click,Firefox 59.0,,2018-04-17 09:35:17,2018-04-17 09:35:18,0.826s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:18,2018-04-17 09:35:20,2.638s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:20,2018-04-17 09:35:21,0.392s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:35:21,2018-04-17 09:35:21,0.220s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Provident Life,Firefox 59.0,,2018-04-17 09:35:21,2018-04-17 09:35:32,10.594s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:35:21,2018-04-17 09:35:24,2.974s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:35:24,2018-04-17 09:35:27,3.002s,PASSED
+click,Firefox 59.0,,2018-04-17 09:35:27,2018-04-17 09:35:28,0.797s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:28,2018-04-17 09:35:30,2.596s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:30,2018-04-17 09:35:31,0.468s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:31,2018-04-17 09:35:31,0.452s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:35:31,2018-04-17 09:35:32,0.208s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Renaissance Health,Firefox 59.0,,2018-04-17 09:35:32,2018-04-17 09:35:41,9.108s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:35:32,2018-04-17 09:35:35,2.965s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:35:35,2018-04-17 09:35:36,1.757s,PASSED
+click,Firefox 59.0,,2018-04-17 09:35:36,2018-04-17 09:35:37,0.807s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:37,2018-04-17 09:35:40,2.487s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:40,2018-04-17 09:35:40,0.387s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:40,2018-04-17 09:35:41,0.401s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:35:41,2018-04-17 09:35:41,0.214s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Senior Network Health,Firefox 59.0,,2018-04-17 09:35:41,2018-04-17 09:35:50,8.924s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:35:41,2018-04-17 09:35:44,2.978s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:35:44,2018-04-17 09:35:46,1.797s,PASSED
+click,Firefox 59.0,,2018-04-17 09:35:46,2018-04-17 09:35:46,0.824s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:46,2018-04-17 09:35:49,2.651s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:49,2018-04-17 09:35:49,0.373s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:35:49,2018-04-17 09:35:50,0.207s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Senior Whole Health,Firefox 59.0,,2018-04-17 09:35:50,2018-04-17 09:36:00,9.870s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:35:50,2018-04-17 09:35:53,2.996s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:35:53,2018-04-17 09:35:55,1.803s,PASSED
+click,Firefox 59.0,,2018-04-17 09:35:55,2018-04-17 09:35:55,0.778s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:55,2018-04-17 09:35:58,2.684s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:58,2018-04-17 09:35:58,0.415s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:58,2018-04-17 09:35:59,0.404s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:35:59,2018-04-17 09:35:59,0.446s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:35:59,2018-04-17 09:36:00,0.234s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Shelter Point Life Insurance,Firefox 59.0,,2018-04-17 09:36:00,2018-04-17 09:36:10,10.335s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:36:00,2018-04-17 09:36:03,2.974s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:36:03,2018-04-17 09:36:04,1.634s,PASSED
+click,Firefox 59.0,,2018-04-17 09:36:04,2018-04-17 09:36:05,0.916s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:05,2018-04-17 09:36:08,2.604s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:08,2018-04-17 09:36:08,0.416s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:08,2018-04-17 09:36:09,0.430s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:09,2018-04-17 09:36:09,0.450s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:09,2018-04-17 09:36:10,0.548s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:36:10,2018-04-17 09:36:10,0.270s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Solstice,Firefox 59.0,,2018-04-17 09:36:10,2018-04-17 09:36:19,9.571s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:36:10,2018-04-17 09:36:13,2.973s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:36:13,2018-04-17 09:36:15,1.765s,PASSED
+click,Firefox 59.0,,2018-04-17 09:36:15,2018-04-17 09:36:16,0.849s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:16,2018-04-17 09:36:18,2.880s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:18,2018-04-17 09:36:19,0.406s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:19,2018-04-17 09:36:19,0.414s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:36:19,2018-04-17 09:36:19,0.191s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Standard,Firefox 59.0,,2018-04-17 09:36:19,2018-04-17 09:36:31,11.610s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:36:20,2018-04-17 09:36:23,3.027s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:36:23,2018-04-17 09:36:24,1.929s,PASSED
+click,Firefox 59.0,,2018-04-17 09:36:24,2018-04-17 09:36:25,0.749s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:25,2018-04-17 09:36:28,2.590s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:28,2018-04-17 09:36:28,0.445s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:28,2018-04-17 09:36:29,0.455s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:29,2018-04-17 09:36:29,0.494s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:29,2018-04-17 09:36:30,0.513s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:30,2018-04-17 09:36:30,0.581s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:30,2018-04-17 09:36:31,0.537s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:36:31,2018-04-17 09:36:31,0.199s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Sun Life and Health,Firefox 59.0,,2018-04-17 09:36:31,2018-04-17 09:36:40,9.285s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:36:31,2018-04-17 09:36:34,2.983s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:36:34,2018-04-17 09:36:36,1.669s,PASSED
+click,Firefox 59.0,,2018-04-17 09:36:36,2018-04-17 09:36:37,0.867s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:37,2018-04-17 09:36:39,2.691s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:39,2018-04-17 09:36:40,0.390s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:40,2018-04-17 09:36:40,0.399s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:36:40,2018-04-17 09:36:40,0.190s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/The Paul Revere,Firefox 59.0,,2018-04-17 09:36:40,2018-04-17 09:36:50,9.496s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:36:40,2018-04-17 09:36:43,2.991s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:36:43,2018-04-17 09:36:45,1.961s,PASSED
+click,Firefox 59.0,,2018-04-17 09:36:45,2018-04-17 09:36:46,0.764s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:46,2018-04-17 09:36:49,2.661s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:49,2018-04-17 09:36:49,0.424s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:49,2018-04-17 09:36:50,0.398s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:36:50,2018-04-17 09:36:50,0.206s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Total Senior Care,Firefox 59.0,,2018-04-17 09:36:50,2018-04-17 09:36:59,9.287s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:36:50,2018-04-17 09:36:53,3.067s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:36:53,2018-04-17 09:36:55,1.778s,PASSED
+click,Firefox 59.0,,2018-04-17 09:36:55,2018-04-17 09:36:56,0.919s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:56,2018-04-17 09:36:59,2.862s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:36:59,2018-04-17 09:36:59,0.374s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:36:59,2018-04-17 09:36:59,0.205s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/United Concordia,Firefox 59.0,,2018-04-17 09:36:59,2018-04-17 09:37:09,9.672s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:36:59,2018-04-17 09:37:02,2.553s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:37:02,2018-04-17 09:37:04,2.222s,PASSED
+click,Firefox 59.0,,2018-04-17 09:37:04,2018-04-17 09:37:05,1.359s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:05,2018-04-17 09:37:08,2.855s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:08,2018-04-17 09:37:09,0.391s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:37:09,2018-04-17 09:37:09,0.216s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/United Healthcare,Firefox 59.0,,2018-04-17 09:37:09,2018-04-17 09:37:30,21.522s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:37:09,2018-04-17 09:37:11,2.534s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:37:11,2018-04-17 09:37:13,1.750s,PASSED
+click,Firefox 59.0,,2018-04-17 09:37:13,2018-04-17 09:37:14,0.971s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:14,2018-04-17 09:37:17,2.721s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:17,2018-04-17 09:37:18,0.720s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:18,2018-04-17 09:37:18,0.621s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:18,2018-04-17 09:37:19,0.820s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:19,2018-04-17 09:37:20,0.704s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:20,2018-04-17 09:37:20,0.700s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:20,2018-04-17 09:37:21,0.695s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:21,2018-04-17 09:37:22,0.770s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:22,2018-04-17 09:37:23,0.722s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:23,2018-04-17 09:37:23,0.811s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:23,2018-04-17 09:37:24,0.790s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:24,2018-04-17 09:37:25,0.772s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:25,2018-04-17 09:37:26,0.808s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:26,2018-04-17 09:37:27,0.900s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:27,2018-04-17 09:37:28,0.822s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:28,2018-04-17 09:37:28,0.821s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:28,2018-04-17 09:37:29,0.874s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:29,2018-04-17 09:37:30,0.918s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:37:30,2018-04-17 09:37:30,0.199s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Univera HealthCare,Firefox 59.0,,2018-04-17 09:37:30,2018-04-17 09:37:43,12.245s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:37:30,2018-04-17 09:37:33,2.537s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:37:33,2018-04-17 09:37:35,1.798s,PASSED
+click,Firefox 59.0,,2018-04-17 09:37:35,2018-04-17 09:37:36,0.868s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:36,2018-04-17 09:37:38,2.821s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:38,2018-04-17 09:37:39,0.468s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:39,2018-04-17 09:37:39,0.486s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:39,2018-04-17 09:37:40,0.582s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:40,2018-04-17 09:37:41,0.609s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:41,2018-04-17 09:37:41,0.614s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:41,2018-04-17 09:37:42,0.590s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:42,2018-04-17 09:37:42,0.581s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:37:42,2018-04-17 09:37:43,0.193s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/VillageCare Max,Firefox 59.0,,2018-04-17 09:37:43,2018-04-17 09:37:53,10.847s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:37:43,2018-04-17 09:37:46,2.981s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:37:46,2018-04-17 09:37:48,2.045s,PASSED
+click,Firefox 59.0,,2018-04-17 09:37:48,2018-04-17 09:37:49,1.311s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:49,2018-04-17 09:37:52,2.769s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:52,2018-04-17 09:37:52,0.456s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:52,2018-04-17 09:37:53,0.440s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:53,2018-04-17 09:37:53,0.506s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:37:53,2018-04-17 09:37:53,0.216s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/VNA Homecare Options LLC,Firefox 59.0,,2018-04-17 09:37:53,2018-04-17 09:38:02,8.714s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:37:53,2018-04-17 09:37:56,2.569s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:37:56,2018-04-17 09:37:58,1.640s,PASSED
+click,Firefox 59.0,,2018-04-17 09:37:58,2018-04-17 09:37:59,0.983s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:37:59,2018-04-17 09:38:02,2.835s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:02,2018-04-17 09:38:02,0.387s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:38:02,2018-04-17 09:38:02,0.218s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/VNS Choice,Firefox 59.0,,2018-04-17 09:38:02,2018-04-17 09:38:13,10.866s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:38:02,2018-04-17 09:38:05,2.587s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:38:05,2018-04-17 09:38:07,1.844s,PASSED
+click,Firefox 59.0,,2018-04-17 09:38:07,2018-04-17 09:38:07,0.821s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:07,2018-04-17 09:38:10,2.825s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:10,2018-04-17 09:38:11,0.485s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:11,2018-04-17 09:38:11,0.450s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:11,2018-04-17 09:38:12,0.569s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:12,2018-04-17 09:38:12,0.499s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:12,2018-04-17 09:38:13,0.524s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:38:13,2018-04-17 09:38:13,0.180s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/Wellcare of New York,Firefox 59.0,,2018-04-17 09:38:13,2018-04-17 09:38:24,10.978s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:38:13,2018-04-17 09:38:16,2.585s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:38:16,2018-04-17 09:38:17,1.774s,PASSED
+click,Firefox 59.0,,2018-04-17 09:38:17,2018-04-17 09:38:18,0.895s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:18,2018-04-17 09:38:21,2.867s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:21,2018-04-17 09:38:22,0.432s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:22,2018-04-17 09:38:22,0.436s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:22,2018-04-17 09:38:23,0.467s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:23,2018-04-17 09:38:23,0.628s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:23,2018-04-17 09:38:24,0.612s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:38:24,2018-04-17 09:38:24,0.195s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/YourCare Health Plan,Firefox 59.0,,2018-04-17 09:38:24,2018-04-17 09:38:35,11.383s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:38:24,2018-04-17 09:38:27,2.991s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:38:27,2018-04-17 09:38:29,1.940s,PASSED
+click,Firefox 59.0,,2018-04-17 09:38:29,2018-04-17 09:38:30,1.241s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:30,2018-04-17 09:38:33,2.814s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:33,2018-04-17 09:38:34,0.452s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:34,2018-04-17 09:38:34,0.533s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:34,2018-04-17 09:38:35,0.567s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:35,2018-04-17 09:38:35,0.523s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:38:35,2018-04-17 09:38:35,0.202s,PASSED
+,,,,,,
+Test Cases/Health Plans and their Products/1 All Plans and Products,Firefox 59.0,,2018-04-17 09:38:35,2018-04-17 09:40:22,1m - 46.925s,FAILED
+openBrowser,Firefox 59.0,,2018-04-17 09:38:36,2018-04-17 09:38:38,2.578s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:38:38,2018-04-17 09:38:40,1.876s,PASSED
+click,Firefox 59.0,,2018-04-17 09:38:40,2018-04-17 09:38:41,0.912s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:41,2018-04-17 09:38:43,1.670s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:43,2018-04-17 09:38:43,0.545s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:43,2018-04-17 09:38:44,0.557s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:44,2018-04-17 09:38:44,0.601s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:44,2018-04-17 09:38:45,0.614s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:45,2018-04-17 09:38:46,0.754s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:46,2018-04-17 09:38:46,0.637s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:46,2018-04-17 09:38:47,0.681s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:47,2018-04-17 09:38:48,0.707s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:48,2018-04-17 09:38:48,0.728s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:48,2018-04-17 09:38:49,0.710s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:49,2018-04-17 09:38:50,0.768s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:50,2018-04-17 09:38:51,0.796s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:51,2018-04-17 09:38:52,1.722s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:52,2018-04-17 09:38:53,0.464s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:53,2018-04-17 09:38:53,0.454s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:53,2018-04-17 09:38:54,0.461s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:54,2018-04-17 09:38:54,0.508s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:54,2018-04-17 09:38:55,0.530s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:55,2018-04-17 09:38:57,1.727s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:57,2018-04-17 09:38:57,0.425s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:57,2018-04-17 09:38:57,0.439s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:57,2018-04-17 09:38:59,1.737s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:38:59,2018-04-17 09:39:00,0.375s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:00,2018-04-17 09:39:01,1.703s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:01,2018-04-17 09:39:02,0.455s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:02,2018-04-17 09:39:02,0.480s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:02,2018-04-17 09:39:03,0.527s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:03,2018-04-17 09:39:03,0.542s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:03,2018-04-17 09:39:04,0.620s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:04,2018-04-17 09:39:04,0.575s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:04,2018-04-17 09:39:05,0.605s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:05,2018-04-17 09:39:07,1.784s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:07,2018-04-17 09:39:07,0.383s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:07,2018-04-17 09:39:09,1.865s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:09,2018-04-17 09:39:10,0.429s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:10,2018-04-17 09:39:10,0.455s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:10,2018-04-17 09:39:12,1.831s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:12,2018-04-17 09:39:12,0.429s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:12,2018-04-17 09:39:13,0.478s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:13,2018-04-17 09:39:15,1.819s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:15,2018-04-17 09:39:15,0.643s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:15,2018-04-17 09:39:16,0.599s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:16,2018-04-17 09:39:17,0.706s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:17,2018-04-17 09:39:17,0.636s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:17,2018-04-17 09:39:18,0.599s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:18,2018-04-17 09:39:18,0.628s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:18,2018-04-17 09:39:19,0.592s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:19,2018-04-17 09:39:20,0.611s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:20,2018-04-17 09:39:20,0.651s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:20,2018-04-17 09:39:21,0.657s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:21,2018-04-17 09:39:23,1.839s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:23,2018-04-17 09:39:23,0.568s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:23,2018-04-17 09:39:24,0.465s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:24,2018-04-17 09:39:24,0.523s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:24,2018-04-17 09:39:25,0.517s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:25,2018-04-17 09:39:25,0.540s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:25,2018-04-17 09:39:26,0.554s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:26,2018-04-17 09:39:28,1.798s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:28,2018-04-17 09:39:28,0.382s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:28,2018-04-17 09:39:30,2.003s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:30,2018-04-17 09:39:30,0.392s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:30,2018-04-17 09:39:32,1.871s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:32,2018-04-17 09:39:33,0.388s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:33,2018-04-17 09:39:33,0.403s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:33,2018-04-17 09:39:35,1.904s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:35,2018-04-17 09:39:36,0.498s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:36,2018-04-17 09:39:36,0.671s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:36,2018-04-17 09:39:37,0.512s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:37,2018-04-17 09:39:37,0.497s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:37,2018-04-17 09:39:38,0.532s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:38,2018-04-17 09:39:38,0.641s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:38,2018-04-17 09:39:40,1.966s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:40,2018-04-17 09:39:41,0.405s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:41,2018-04-17 09:39:41,0.444s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:41,2018-04-17 09:39:42,0.451s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:42,2018-04-17 09:39:44,1.998s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:44,2018-04-17 09:39:44,0.374s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:44,2018-04-17 09:39:46,1.875s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:46,2018-04-17 09:39:46,0.441s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:46,2018-04-17 09:39:47,0.461s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:47,2018-04-17 09:39:47,0.461s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:47,2018-04-17 09:39:49,1.954s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:49,2018-04-17 09:39:50,0.434s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:50,2018-04-17 09:39:50,0.439s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:50,2018-04-17 09:39:51,0.465s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:51,2018-04-17 09:39:53,1.933s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:53,2018-04-17 09:39:53,0.427s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:53,2018-04-17 09:39:53,0.468s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:53,2018-04-17 09:39:54,0.497s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:54,2018-04-17 09:39:54,0.506s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:54,2018-04-17 09:39:56,1.936s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:56,2018-04-17 09:39:57,0.442s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:57,2018-04-17 09:39:57,0.470s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:57,2018-04-17 09:39:58,0.504s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:58,2018-04-17 09:39:58,0.478s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:58,2018-04-17 09:39:59,0.503s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:39:59,2018-04-17 09:40:01,2.038s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:01,2018-04-17 09:40:01,0.378s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:01,2018-04-17 09:40:03,2.106s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:03,2018-04-17 09:40:04,0.421s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:04,2018-04-17 09:40:04,0.413s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:04,2018-04-17 09:40:06,1.977s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:06,2018-04-17 09:40:06,0.395s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:06,2018-04-17 09:40:08,2.037s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:08,2018-04-17 09:40:09,0.384s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:09,2018-04-17 09:40:09,0.433s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:09,2018-04-17 09:40:11,1.907s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:11,2018-04-17 09:40:12,0.370s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:12,2018-04-17 09:40:13,1.847s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:13,2018-04-17 09:40:14,0.365s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:14,2018-04-17 09:40:16,1.931s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:16,2018-04-17 09:40:16,0.380s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:16,2018-04-17 09:40:17,0.410s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:17,2018-04-17 09:40:17,0.421s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:17,2018-04-17 09:40:19,1.881s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:19,2018-04-17 09:40:19,0.378s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:19,2018-04-17 09:40:20,0.391s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:20,2018-04-17 09:40:21,1.900s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:21,2018-04-17 09:40:22,0.452s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:40:22,2018-04-17 09:40:22,0.341s,FAILED

@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Plans and Products single test case,,,2018-04-18 11:02:44,2018-04-18 11:02:45,1.045s,ERROR
+,,,,,,
+Test Cases/Plans and Products single test case,,,2018-04-18 11:02:44,2018-04-18 11:02:45,0.641s,ERROR

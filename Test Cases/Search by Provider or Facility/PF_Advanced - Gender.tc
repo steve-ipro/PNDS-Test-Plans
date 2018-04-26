@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PF_Advanced - Gender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38ff0eb9-c2db-4785-b5bc-12547b0aa189</testCaseGuid>
+   <variable>
+      <defaultValue>'https://pndslookup.health.ny.gov/'</defaultValue>
+      <description>production</description>
+      <id>3863df9d-8ee5-4967-be4b-1991bff6fb5b</id>
+      <masked>false</masked>
+      <name>prod_URL</name>
+   </variable>
+   <variable>
+      <defaultValue>['https://pndslookup.health.ny.gov/', 'http://dev.providerlookup.ipro.org/']</defaultValue>
+      <description></description>
+      <id>f21fd3a8-ddd9-4682-95af-7df978b3c835</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

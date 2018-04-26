@@ -1,0 +1,71 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Search by Health Plan,Firefox 59.0,,2018-04-17 08:46:12,2018-04-17 09:03:44,17m - 31.859s,FAILED
+,,,,,,
+Test Cases/Search by Health Plan/HP_Advanced Search - Gender,Firefox 59.0,,2018-04-17 08:46:13,2018-04-17 08:48:19,2m - 6.043s,FAILED
+openBrowser,Firefox 59.0,,2018-04-17 08:46:13,2018-04-17 08:46:19,6.008s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 08:46:19,2018-04-17 08:46:23,4.104s,PASSED
+click,Firefox 59.0,,2018-04-17 08:46:23,2018-04-17 08:46:26,2.466s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 08:46:26,2018-04-17 08:48:04,1m - 38.076s,PASSED
+click,Firefox 59.0,,2018-04-17 08:48:04,2018-04-17 08:48:06,2.291s,PASSED
+click,Firefox 59.0,,2018-04-17 08:48:06,2018-04-17 08:48:08,2.283s,PASSED
+click,Firefox 59.0,,2018-04-17 08:48:08,2018-04-17 08:48:16,7.319s,PASSED
+click,Firefox 59.0,,2018-04-17 08:48:16,2018-04-17 08:48:19,3.188s,FAILED
+,,,,,,
+Test Cases/Search by Health Plan/HP_Advanced Search - Language,Firefox 59.0,"Spanish,\nChinese,\nRussian",2018-04-17 08:48:19,2018-04-17 08:53:00,4m - 40.856s,FAILED
+openBrowser,Firefox 59.0,,2018-04-17 08:48:19,2018-04-17 08:48:25,5.841s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 08:48:25,2018-04-17 08:48:28,2.956s,PASSED
+click,Firefox 59.0,,2018-04-17 08:48:28,2018-04-17 08:48:30,2.424s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 08:48:30,2018-04-17 08:50:09,1m - 39.121s,PASSED
+click,Firefox 59.0,,2018-04-17 08:50:09,2018-04-17 08:50:12,2.334s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 08:50:12,2018-04-17 08:52:49,2m - 37.369s,PASSED
+click,Firefox 59.0,,2018-04-17 08:52:49,2018-04-17 08:52:56,7.369s,PASSED
+click,Firefox 59.0,,2018-04-17 08:52:56,2018-04-17 08:53:00,3.260s,FAILED
+,,,,,,
+Test Cases/Search by Health Plan/HP_Advanced Search - Wheelchair,Firefox 59.0,,2018-04-17 08:53:00,2018-04-17 08:55:03,2m - 3.276s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 08:53:00,2018-04-17 08:53:06,5.798s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 08:53:06,2018-04-17 08:53:08,2.551s,PASSED
+click,Firefox 59.0,,2018-04-17 08:53:08,2018-04-17 08:53:11,2.428s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 08:53:11,2018-04-17 08:54:50,1m - 39.188s,PASSED
+click,Firefox 59.0,,2018-04-17 08:54:50,2018-04-17 08:54:52,2.364s,PASSED
+click,Firefox 59.0,,2018-04-17 08:54:52,2018-04-17 08:54:54,2.277s,PASSED
+click,Firefox 59.0,,2018-04-17 08:54:54,2018-04-17 08:55:02,7.308s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 08:55:02,2018-04-17 08:55:03,1.230s,PASSED
+,,,,,,
+Test Cases/Search by Health Plan/HP_Facilities Only,Firefox 59.0,,2018-04-17 08:55:03,2018-04-17 08:56:59,1m - 56.116s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 08:55:03,2018-04-17 08:55:08,4.567s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 08:55:08,2018-04-17 08:55:10,2.697s,PASSED
+click,Firefox 59.0,,2018-04-17 08:55:10,2018-04-17 08:55:13,2.501s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 08:55:13,2018-04-17 08:56:52,1m - 38.901s,PASSED
+click,Firefox 59.0,,2018-04-17 08:56:52,2018-04-17 08:56:54,2.282s,PASSED
+click,Firefox 59.0,,2018-04-17 08:56:54,2018-04-17 08:56:58,3.849s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 08:56:58,2018-04-17 08:56:59,1.219s,PASSED
+,,,,,,
+Test Cases/Search by Health Plan/HP_Providers Only,Firefox 59.0,,2018-04-17 08:56:59,2018-04-17 08:58:59,2m - 0.265s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 08:56:59,2018-04-17 08:57:04,4.623s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 08:57:04,2018-04-17 08:57:07,2.750s,PASSED
+click,Firefox 59.0,,2018-04-17 08:57:07,2018-04-17 08:57:09,2.456s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 08:57:09,2018-04-17 08:58:48,1m - 39.397s,PASSED
+click,Firefox 59.0,,2018-04-17 08:58:48,2018-04-17 08:58:51,2.336s,PASSED
+click,Firefox 59.0,,2018-04-17 08:58:51,2018-04-17 08:58:58,7.364s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 08:58:58,2018-04-17 08:58:59,1.221s,PASSED
+,,,,,,
+Test Cases/Search by Health Plan/HP_Search by Health Plan name,Firefox 59.0,,2018-04-17 08:58:59,2018-04-17 09:00:57,1m - 57.639s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 08:59:00,2018-04-17 08:59:04,4.609s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 08:59:04,2018-04-17 08:59:07,2.993s,PASSED
+click,Firefox 59.0,,2018-04-17 08:59:07,2018-04-17 08:59:10,2.420s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 08:59:10,2018-04-17 09:00:49,1m - 38.981s,PASSED
+click,Firefox 59.0,,2018-04-17 09:00:49,2018-04-17 09:00:56,7.349s,PASSED
+closeBrowser,Firefox 59.0,,2018-04-17 09:00:56,2018-04-17 09:00:57,1.170s,PASSED
+,,,,,,
+Test Cases/Search by Health Plan/HP_Zip code and Radius,Firefox 59.0,,2018-04-17 09:00:57,2018-04-17 09:03:43,2m - 46.022s,FAILED
+openBrowser,Firefox 59.0,,2018-04-17 09:00:57,2018-04-17 09:01:02,4.667s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:01:02,2018-04-17 09:01:05,2.961s,PASSED
+click,Firefox 59.0,,2018-04-17 09:01:05,2018-04-17 09:01:07,2.399s,PASSED
+setText,Firefox 59.0,,2018-04-17 09:01:07,2018-04-17 09:01:11,4.168s,PASSED
+openBrowser,Firefox 59.0,,2018-04-17 09:01:11,2018-04-17 09:01:17,5.830s,PASSED
+navigateToUrl,Firefox 59.0,,2018-04-17 09:01:17,2018-04-17 09:01:21,3.730s,PASSED
+click,Firefox 59.0,,2018-04-17 09:01:21,2018-04-17 09:01:24,3.060s,PASSED
+selectOptionByValue,Firefox 59.0,,2018-04-17 09:01:24,2018-04-17 09:03:04,1m - 39.646s,PASSED
+click,Firefox 59.0,,2018-04-17 09:03:04,2018-04-17 09:03:09,5.069s,PASSED
+click,Firefox 59.0,,2018-04-17 09:03:09,2018-04-17 09:03:11,2.329s,PASSED
+click,Firefox 59.0,,2018-04-17 09:03:11,2018-04-17 09:03:43,31.992s,FAILED

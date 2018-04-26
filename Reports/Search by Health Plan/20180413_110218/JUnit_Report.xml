@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Search by Health Plan" time="105" tests="4" failures="3" errors="0">
+   <testsuite name="Search by Health Plan" tests="4" failures="3" errors="0" time="105" timestamp="2018-04-13 11:02:19" hostname="shawn - DESKTOP-VC1MT75" id="Test Suites/Search by Health Plan">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218"/>
+         <property name="logFiles" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218\\1523631752150.png, C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218\\1523631764916.png, C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218\\1523631844262.png"/>
+         <property name="hostName" value="shawn - DESKTOP-VC1MT75"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="browser" value="Firefox 59.0"/>
+         <property name="hostAddress" value="192.168.254.184"/>
+         <property name="sessionId" value="f1d3f49f-87a7-48ed-a773-fb8c13c420a1"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Search by Health Plan/HP_Advanced Search - Gender" classname="Test Cases/Search by Health Plan/HP_Advanced Search - Gender" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Page_PNDS (5)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element &lt;button id=&quot;showAdvanced&quot; class=&quot;btn btn-info btn-fill btn-wd&quot; type=&quot;button&quot;> is not clickable at point (382,360.683349609375) because another element &lt;div id=&quot;loadingModal&quot; class=&quot;modal fade in&quot;> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 12488, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 5564de69-225d-419a-895a-c12e72f0bb73)"/>
+         <system-out><![CDATA[2018-04-13 11:02:19 - [TEST_CASE][FAILED] - Test Cases/Search by Health Plan/HP_Advanced Search - Gender: Test Cases/Search by Health Plan/HP_Advanced Search - Gender FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (5)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 12488, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 5564de69-225d-419a-895a-c12e72f0bb73)
+
+2018-04-13 11:02:20 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:02:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:02:23 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:02:24 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:02:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (5)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:02:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (5)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:02:25 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS (5)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:02:26 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS (5)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:02:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (5)/button_Advanced Search' is clicked on
+
+2018-04-13 11:02:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (5)/button_Advanced Search' is clicked on
+
+2018-04-13 11:02:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (5)/span_second-icon fa fa-dot-cir' is clicked on
+
+2018-04-13 11:02:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (5)/span_second-icon fa fa-dot-cir' is clicked on
+
+2018-04-13 11:02:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (5)/button_Search' is clicked on
+
+2018-04-13 11:02:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (5)/button_Search' is clicked on
+
+2018-04-13 11:02:32 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Page_PNDS (5)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 12488, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 5564de69-225d-419a-895a-c12e72f0bb73)
+
+2018-04-13 11:02:32 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_PNDS (5)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 12488, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 5564de69-225d-419a-895a-c12e72f0bb73)
+[[ATTACHMENT|C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218\\1523631752150.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-13 11:02:19 - [TEST_CASE][FAILED] - Test Cases/Search by Health Plan/HP_Advanced Search - Gender: Test Cases/Search by Health Plan/HP_Advanced Search - Gender FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (5)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 12488, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 5564de69-225d-419a-895a-c12e72f0bb73)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Health Plan/HP_Advanced Search - Language" classname="Test Cases/Search by Health Plan/HP_Advanced Search - Language" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Page_PNDS (6)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element &lt;button id=&quot;showAdvanced&quot; class=&quot;btn btn-info btn-fill btn-wd&quot; type=&quot;button&quot;> is not clickable at point (382,360.683349609375) because another element &lt;div id=&quot;loadingModal&quot; class=&quot;modal fade in&quot;> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 25464, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 99d3aecc-8e9e-49dd-82ac-0ec345715a5a)"/>
+         <system-out><![CDATA[2018-04-13 11:02:32 - [TEST_CASE][FAILED] - Test Cases/Search by Health Plan/HP_Advanced Search - Language: Test Cases/Search by Health Plan/HP_Advanced Search - Language FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (6)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 25464, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 99d3aecc-8e9e-49dd-82ac-0ec345715a5a)
+
+2018-04-13 11:02:32 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:02:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-04-13 11:02:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:02:34 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:02:35 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:02:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (6)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:02:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (6)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:02:36 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS (6)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:02:37 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS (6)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:02:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (6)/button_Advanced Search' is clicked on
+
+2018-04-13 11:02:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (6)/button_Advanced Search' is clicked on
+
+2018-04-13 11:02:38 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'SPA' are selected in object 'Object Repository/Page_PNDS (6)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-13 11:02:39 - [MESSAGE][PASSED] - All options with value 'SPA' are selected in object 'Object Repository/Page_PNDS (6)/select_EnglishArabicBengaliBan'  using regular expression
+
+2018-04-13 11:02:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (6)/button_Search' is clicked on
+
+2018-04-13 11:02:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (6)/button_Search' is clicked on
+
+2018-04-13 11:02:44 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Page_PNDS (6)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 25464, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 99d3aecc-8e9e-49dd-82ac-0ec345715a5a)
+
+2018-04-13 11:02:45 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_PNDS (6)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 25464, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 99d3aecc-8e9e-49dd-82ac-0ec345715a5a)
+[[ATTACHMENT|C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218\\1523631764916.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-13 11:02:32 - [TEST_CASE][FAILED] - Test Cases/Search by Health Plan/HP_Advanced Search - Language: Test Cases/Search by Health Plan/HP_Advanced Search - Language FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (6)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 25464, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 99d3aecc-8e9e-49dd-82ac-0ec345715a5a)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Health Plan/HP_Advanced Search - Wheelchair" classname="Test Cases/Search by Health Plan/HP_Advanced Search - Wheelchair" status="PASSED">
+         <system-out><![CDATA[2018-04-13 11:02:45 - [TEST_CASE][PASSED] - Test Cases/Search by Health Plan/HP_Advanced Search - Wheelchair: Test Cases/Search by Health Plan/HP_Advanced Search - Wheelchair
+
+2018-04-13 11:02:45 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:02:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-04-13 11:02:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:02:47 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/providers/search' successfully
+
+2018-04-13 11:02:48 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/providers/search' successfully
+
+2018-04-13 11:02:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (4)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:02:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (4)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:02:49 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS (4)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:02:50 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS (4)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:02:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (4)/button_Advanced Search' is clicked on
+
+2018-04-13 11:02:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (4)/button_Advanced Search' is clicked on
+
+2018-04-13 11:02:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (4)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-13 11:02:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (4)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-13 11:02:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (4)/button_Search' is clicked on
+
+2018-04-13 11:02:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (4)/button_Search' is clicked on
+
+2018-04-13 11:02:55 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-13 11:02:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Health Plan/HP_Facilities Only" classname="Test Cases/Search by Health Plan/HP_Facilities Only" status="PASSED">
+         <system-out><![CDATA[2018-04-13 11:02:56 - [TEST_CASE][PASSED] - Test Cases/Search by Health Plan/HP_Facilities Only: Test Cases/Search by Health Plan/HP_Facilities Only
+
+2018-04-13 11:02:56 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:02:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:02:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:02:59 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:02:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (1)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (1)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:00 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS (1)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:01 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS (1)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (1)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-13 11:03:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (1)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-13 11:03:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (1)/button_Search' is clicked on
+
+2018-04-13 11:03:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (1)/button_Search' is clicked on
+
+2018-04-13 11:03:03 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-13 11:03:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Health Plan/HP_Providers Only" classname="Test Cases/Search by Health Plan/HP_Providers Only" status="PASSED">
+         <system-out><![CDATA[2018-04-13 11:03:03 - [TEST_CASE][PASSED] - Test Cases/Search by Health Plan/HP_Providers Only: Test Cases/Search by Health Plan/HP_Providers Only
+
+2018-04-13 11:03:03 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:03:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:03:06 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:03:07 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:03:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (2)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (2)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:07 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS (2)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:08 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS (2)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (2)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-13 11:03:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (2)/span_second-icon fa fa-check-s' is clicked on
+
+2018-04-13 11:03:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (2)/button_Search' is clicked on
+
+2018-04-13 11:03:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (2)/button_Search' is clicked on
+
+2018-04-13 11:03:14 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-13 11:03:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Health Plan/HP_Search by Health Plan name" classname="Test Cases/Search by Health Plan/HP_Search by Health Plan name" status="PASSED">
+         <system-out><![CDATA[2018-04-13 11:03:14 - [TEST_CASE][PASSED] - Test Cases/Search by Health Plan/HP_Search by Health Plan name: Test Cases/Search by Health Plan/HP_Search by Health Plan name
+
+2018-04-13 11:03:14 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:03:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:03:16 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:03:18 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:03:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:18 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:19 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS/button_Search' is clicked on
+
+2018-04-13 11:03:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS/button_Search' is clicked on
+
+2018-04-13 11:03:20 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-13 11:03:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search by Health Plan/HP_Zip code and Radius" classname="Test Cases/Search by Health Plan/HP_Zip code and Radius" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' located by 'By.xpath: //div[@id = 'recordCount' and (text() = '90212 Providers returned in this search. ' or . = '90212 Providers returned in this search. ')]' not found)"/>
+         <system-out><![CDATA[2018-04-13 11:03:20 - [TEST_CASE][FAILED] - Test Cases/Search by Health Plan/HP_Zip code and Radius: Test Cases/Search by Health Plan/HP_Zip code and Radius FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' located by 'By.xpath: //div[@id = 'recordCount' and (text() = '90212 Providers returned in this search. ' or . = '90212 Providers returned in this search. ')]' not found)
+
+2018-04-13 11:03:20 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:03:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:03:22 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:03:24 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup.health.ny.gov/' successfully
+
+2018-04-13 11:03:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (3)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (3)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:24 - [TEST_STEP][PASSED] - setText: Text '10010' is set on object 'Object Repository/Page_PNDS (3)/input_data0Practicezip_code'
+
+2018-04-13 11:03:24 - [MESSAGE][PASSED] - Text '10010' is set on object 'Object Repository/Page_PNDS (3)/input_data0Practicezip_code'
+
+2018-04-13 11:03:24 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-13 11:03:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-04-13 11:03:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-13 11:03:27 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 11:03:28 - [MESSAGE][PASSED] - Navigate to 'http://dev.providerlookup.ipro.org/' successfully
+
+2018-04-13 11:03:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (7)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (7)/a_Search by Health Plan' is clicked on
+
+2018-04-13 11:03:29 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '0001' are selected in object 'Object Repository/Page_PNDS (7)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:30 - [MESSAGE][PASSED] - All options with value '0001' are selected in object 'Object Repository/Page_PNDS (7)/select_--- Choose one ---Aetna'  using regular expression
+
+2018-04-13 11:03:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (7)/button_Search' is clicked on
+
+2018-04-13 11:03:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (7)/button_Search' is clicked on
+
+2018-04-13 11:03:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (7)/h4_Results' is clicked on
+
+2018-04-13 11:03:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (7)/h4_Results' is clicked on
+
+2018-04-13 11:03:33 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' located by 'By.xpath: //div[@id = 'recordCount' and (text() = '90212 Providers returned in this search. ' or . = '90212 Providers returned in this search. ')]' not found)
+
+2018-04-13 11:04:04 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' located by 'By.xpath: //div[@id = 'recordCount' and (text() = '90212 Providers returned in this search. ' or . = '90212 Providers returned in this search. ')]' not found)
+[[ATTACHMENT|C:\\Users\\shawn\\Katalon Studio\\PNDS\\Reports\\Search by Health Plan\\20180413_110218\\1523631844262.png]]]]></system-out>
+         <system-err><![CDATA[2018-04-13 11:03:20 - [TEST_CASE][FAILED] - Test Cases/Search by Health Plan/HP_Zip code and Radius: Test Cases/Search by Health Plan/HP_Zip code and Radius FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_PNDS (7)/div_90212 Providers returned i' located by 'By.xpath: //div[@id = 'recordCount' and (text() = '90212 Providers returned in this search. ' or . = '90212 Providers returned in this search. ')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-04-13 11:02:19 - [TEST_SUITE][FAILED] - Search by Health Plan: Test Cases/Search by Health Plan/HP_Advanced Search - Gender FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (5)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 12488, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 5564de69-225d-419a-895a-c12e72f0bb73)]]></system-out>
+      <system-err><![CDATA[2018-04-13 11:02:19 - [TEST_SUITE][FAILED] - Search by Health Plan: Test Cases/Search by Health Plan/HP_Advanced Search - Gender FAILED because (of) Unable to click on object 'Object Repository/Page_PNDS (5)/button_Advanced Search' (Root cause: org.openqa.selenium.ElementClickInterceptedException: Element <button id="showAdvanced" class="btn btn-info btn-fill btn-wd" type="button"> is not clickable at point (382,360.683349609375) because another element <div id="loadingModal" class="modal fade in"> obscures it
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'DESKTOP-VC1MT75', ip: '192.168.254.184', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 59.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: true, moz:processID: 12488, moz:profile: C:\Users\shawn\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 5564de69-225d-419a-895a-c12e72f0bb73)]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Spanish,
+Chinese,
+Russian</description>
+   <name>HP_Advanced Search - Language</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d405756-d31c-4341-8bc1-f5783abe0cc0</testCaseGuid>
+</TestCaseEntity>

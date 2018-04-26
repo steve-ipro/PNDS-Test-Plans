@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FAQ Page" time="61" tests="1" failures="0" errors="0">
+   <testsuite name="FAQ Page" tests="1" failures="0" errors="0" time="61" timestamp="2018-04-26 14:17:00" hostname="stevengilliard - 192.168.0.182" id="Test Suites/FAQ Page">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/stevengilliard/Katalon Studio/PNDS/Reports/FAQ Page/20180426_141653"/>
+         <property name="logFiles" value="/Users/stevengilliard/Katalon Studio/PNDS/Reports/FAQ Page/20180426_141653/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="stevengilliard - 192.168.0.182"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.4.0.1"/>
+         <property name="browser" value="Firefox 59.0"/>
+         <property name="hostAddress" value="192.168.0.182"/>
+         <property name="sessionId" value="a25d18c4-da26-7045-95ce-15250c4a173b"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/FAQ page" classname="Test Cases/FAQ page" status="PASSED">
+         <system-out><![CDATA[2018-04-26 14:17:01 - [TEST_CASE][PASSED] - Test Cases/FAQ page: Test Cases/FAQ page
+
+2018-04-26 14:17:01 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-04-26 14:17:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-04-26 14:17:35 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://pndslookup-prod.ipro.org/' successfully
+
+2018-04-26 14:17:46 - [MESSAGE][PASSED] - Navigate to 'https://pndslookup-prod.ipro.org/' successfully
+
+2018-04-26 14:17:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_FAQ' is clicked on
+
+2018-04-26 14:17:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_FAQ' is clicked on
+
+2018-04-26 14:17:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/div_NYS Provider  Health Plan' is clicked on
+
+2018-04-26 14:17:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/div_NYS Provider  Health Plan' is clicked on
+
+2018-04-26 14:17:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/div_NYS Provider  Health Plan _1' is clicked on
+
+2018-04-26 14:17:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/div_NYS Provider  Health Plan _1' is clicked on
+
+2018-04-26 14:17:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_How should I use the inform' is clicked on
+
+2018-04-26 14:17:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_How should I use the inform' is clicked on
+
+2018-04-26 14:17:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_Use the NYS Provider  Health' is clicked on
+
+2018-04-26 14:17:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_Use the NYS Provider  Health' is clicked on
+
+2018-04-26 14:17:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_Why did NYS Department of H' is clicked on
+
+2018-04-26 14:17:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_Why did NYS Department of H' is clicked on
+
+2018-04-26 14:17:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_Technology has changed the w' is clicked on
+
+2018-04-26 14:17:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_Technology has changed the w' is clicked on
+
+2018-04-26 14:17:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_What is a health plan netwo' is clicked on
+
+2018-04-26 14:17:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_What is a health plan netwo' is clicked on
+
+2018-04-26 14:17:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_A health plan network is the' is clicked on
+
+2018-04-26 14:17:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_A health plan network is the' is clicked on
+
+2018-04-26 14:17:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_What information is include' is clicked on
+
+2018-04-26 14:17:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_What information is include' is clicked on
+
+2018-04-26 14:17:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla' is clicked on
+
+2018-04-26 14:17:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla' is clicked on
+
+2018-04-26 14:17:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_What is the difference betw' is clicked on
+
+2018-04-26 14:17:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_What is the difference betw' is clicked on
+
+2018-04-26 14:17:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_A commercial health insuranc' is clicked on
+
+2018-04-26 14:17:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_A commercial health insuranc' is clicked on
+
+2018-04-26 14:17:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_What is the source of the i' is clicked on
+
+2018-04-26 14:17:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_What is the source of the i' is clicked on
+
+2018-04-26 14:17:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_The data in the NYS Provider' is clicked on
+
+2018-04-26 14:17:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_The data in the NYS Provider' is clicked on
+
+2018-04-26 14:17:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_How often is the provider n' is clicked on
+
+2018-04-26 14:17:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_How often is the provider n' is clicked on
+
+2018-04-26 14:17:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_Data in the NYS Provider  He' is clicked on
+
+2018-04-26 14:17:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_Data in the NYS Provider  He' is clicked on
+
+2018-04-26 14:17:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_I get health insurance cove' is clicked on
+
+2018-04-26 14:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_I get health insurance cove' is clicked on
+
+2018-04-26 14:17:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_If you are enrolled in a com' is clicked on
+
+2018-04-26 14:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_If you are enrolled in a com' is clicked on
+
+2018-04-26 14:17:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_If the information is curre' is clicked on
+
+2018-04-26 14:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_If the information is curre' is clicked on
+
+2018-04-26 14:17:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_1' is clicked on
+
+2018-04-26 14:17:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_1' is clicked on
+
+2018-04-26 14:17:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/div_Do I have to do a separate' is clicked on
+
+2018-04-26 14:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/div_Do I have to do a separate' is clicked on
+
+2018-04-26 14:17:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_No. The NYS Provider  Health' is clicked on
+
+2018-04-26 14:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_No. The NYS Provider  Health' is clicked on
+
+2018-04-26 14:17:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_Why do two health plans sho' is clicked on
+
+2018-04-26 14:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_Why do two health plans sho' is clicked on
+
+2018-04-26 14:17:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_2' is clicked on
+
+2018-04-26 14:17:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_2' is clicked on
+
+2018-04-26 14:17:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_Why do two health plans sho_1' is clicked on
+
+2018-04-26 14:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_Why do two health plans sho_1' is clicked on
+
+2018-04-26 14:17:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_In some instances a provider' is clicked on
+
+2018-04-26 14:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_In some instances a provider' is clicked on
+
+2018-04-26 14:17:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_Can I apply for health cove' is clicked on
+
+2018-04-26 14:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_Can I apply for health cove' is clicked on
+
+2018-04-26 14:17:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_No. To apply for health cove' is clicked on
+
+2018-04-26 14:17:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_No. To apply for health cove' is clicked on
+
+2018-04-26 14:17:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_Does the NYS Provider  Heal' is clicked on
+
+2018-04-26 14:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_Does the NYS Provider  Heal' is clicked on
+
+2018-04-26 14:17:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_No. Medicare Advantage is ad' is clicked on
+
+2018-04-26 14:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_No. Medicare Advantage is ad' is clicked on
+
+2018-04-26 14:17:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_I am enrolled in Medicaid b' is clicked on
+
+2018-04-26 14:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_I am enrolled in Medicaid b' is clicked on
+
+2018-04-26 14:17:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_No the NYS Provider  Health' is clicked on
+
+2018-04-26 14:17:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_No the NYS Provider  Health' is clicked on
+
+2018-04-26 14:17:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_How does the NYS Provider' is clicked on
+
+2018-04-26 14:17:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_How does the NYS Provider' is clicked on
+
+2018-04-26 14:17:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_3' is clicked on
+
+2018-04-26 14:17:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_3' is clicked on
+
+2018-04-26 14:17:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_What should I do if the dat' is clicked on
+
+2018-04-26 14:17:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_What should I do if the dat' is clicked on
+
+2018-04-26 14:17:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_Report any concerns about po' is clicked on
+
+2018-04-26 14:17:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_Report any concerns about po' is clicked on
+
+2018-04-26 14:17:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_How do I know who will spea' is clicked on
+
+2018-04-26 14:17:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_How do I know who will spea' is clicked on
+
+2018-04-26 14:17:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_Results will yield language' is clicked on
+
+2018-04-26 14:17:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_Results will yield language' is clicked on
+
+2018-04-26 14:17:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_How are provider specialtie' is clicked on
+
+2018-04-26 14:17:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_How are provider specialtie' is clicked on
+
+2018-04-26 14:17:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_4' is clicked on
+
+2018-04-26 14:17:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_The NYS Provider  Health Pla_4' is clicked on
+
+2018-04-26 14:17:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/h3_How is a Primary Care Provi' is clicked on
+
+2018-04-26 14:17:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/h3_How is a Primary Care Provi' is clicked on
+
+2018-04-26 14:17:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_PNDS (16)/p_Primary Care Providers (PCPs' is clicked on
+
+2018-04-26 14:17:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_PNDS (16)/p_Primary Care Providers (PCPs' is clicked on
+
+2018-04-26 14:17:59 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-04-26 14:18:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-04-26 14:17:00 - [TEST_SUITE][PASSED] - FAQ Page: Test Cases/FAQ page]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
